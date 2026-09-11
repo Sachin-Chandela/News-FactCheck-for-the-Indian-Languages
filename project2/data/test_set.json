@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "hinglish": "Kya adrak aur tulsi cancer ka ilaj kar sakte hain?",
+    "english_reference": "Can ginger and basil cure cancer?",
+    "label": 0,
+    "explanation": "While ginger and basil have anti-inflammatory properties and are healthy, there is no scientific evidence that they can cure cancer. Cancer requires specialized medical treatments like chemotherapy or surgery."
+  },
+  {
+    "id": 2,
+    "hinglish": "Diabetes ke maarizo ko meetha bilkul nahi khana chahiye.",
+    "english_reference": "Diabetic patients should completely avoid sweets.",
+    "label": 2,
+    "explanation": "Modern clinical guidelines suggest that diabetics can consume small, controlled amounts of sugar as part of a balanced diet, though low-GI complex carbs are preferred. 'Completely avoiding' is an oversimplification."
+  },
+  {
+    "id": 3,
+    "hinglish": "Vaccine lagwane se bache bimar ho jate hain.",
+    "english_reference": "Vaccines make children sick.",
+    "label": 0,
+    "explanation": "Vaccines do not cause illness. They may cause minor side effects like mild fever or soreness, which are signs that the immune system is building protection. They prevent severe life-threatening diseases."
+  },
+  {
+    "id": 4,
+    "hinglish": "Gile baalo mein sone se cold ho jata hai.",
+    "english_reference": "Sleeping with wet hair causes a cold.",
+    "label": 0,
+    "explanation": "Common colds are caused by viruses (like rhinovirus), not by wet hair or low temperatures. However, damp environments can sometimes encourage fungal growth on pillows."
+  },
+  {
+    "id": 5,
+    "hinglish": "Sugar tax lagane se obesity aur diabetes kam ho sakti hai.",
+    "english_reference": "Implementing a sugar tax can reduce obesity and diabetes rates.",
+    "label": 1,
+    "explanation": "Research indicates that taxes on sugar-sweetened beverages lead to reduced consumption, which statistically correlates with lower rates of obesity and Type 2 diabetes in the general population."
+  },
+  {
+    "id": 6,
+    "hinglish": "Roz ek seb khane se doctor ki zaroorat nahi padti.",
+    "english_reference": "Eating an apple a day keeps the doctor away.",
+    "label": 2,
+    "explanation": "Apples are nutritious and high in fiber, contributing to heart health, but they cannot prevent all illnesses or replace the need for regular medical check-ups."
+  },
+  {
+    "id": 7,
+    "hinglish": "Microwave mein khana garam karne se cancer hota hai.",
+    "english_reference": "Heating food in a microwave causes cancer.",
+    "label": 0,
+    "explanation": "Microwaves use non-ionizing radiation to vibrate water molecules in food. This does not make food radioactive or increase the risk of cancer."
+  },
+  {
+    "id": 8,
+    "hinglish": "Garam pani peene se sharir ke saare toxins nikal jate hain.",
+    "english_reference": "Drinking hot water removes all toxins from the body.",
+    "label": 2,
+    "explanation": "Hydration is essential for kidney and liver function (the body's natural detox systems), but hot water specifically does not have a superior 'detoxing' power over room-temperature water."
+  },
+  {
+    "id": 9,
+    "hinglish": "Ande khane se dil ki bimari ka khatra badh jata hai.",
+    "english_reference": "Eating eggs increases the risk of heart disease.",
+    "label": 0,
+    "explanation": "For most healthy individuals, moderate egg consumption does not significantly raise blood cholesterol levels or heart disease risk, as dietary cholesterol has a smaller impact than saturated fats."
+  },
+  {
+    "id": 10,
+    "hinglish": "Antibiotics lene se viral flu thik ho jata hai.",
+    "english_reference": "Taking antibiotics can cure the viral flu.",
+    "label": 0,
+    "explanation": "Antibiotics only kill bacteria. The flu is caused by viruses, so antibiotics are ineffective against it and should not be used unless a secondary bacterial infection is present."
+  },
+  {
+    "id": 11,
+    "hinglish": "Andhere mein padhne se aankhen kharab ho jati hain.",
+    "english_reference": "Reading in the dark ruins your eyesight.",
+    "label": 2,
+    "explanation": "Reading in low light can cause eye strain and headaches, but it does not cause permanent damage to your vision or eye structure."
+  },
+  {
+    "id": 12,
+    "hinglish": "Periods ke waqt khatta khane se dard badhta hai.",
+    "english_reference": "Eating sour food during periods increases pain.",
+    "label": 0,
+    "explanation": "There is no biological link between sour foods (like lemons or pickles) and menstrual cramps. Cramps are caused by uterine contractions triggered by prostaglandins."
+  },
+  {
+    "id": 13,
+    "hinglish": "Khade hokar pani peene se ghutno mein dard hota hai.",
+    "english_reference": "Drinking water while standing causes joint pain.",
+    "label": 0,
+    "explanation": "There is no scientific evidence suggesting that the posture in which you drink water affects joint health or causes arthritis."
+  },
+  {
+    "id": 14,
+    "hinglish": "Doodh aur machli ek saath khane se safed daag hote hain.",
+    "english_reference": "Eating fish and milk together causes vitiligo (white spots).",
+    "label": 0,
+    "explanation": "Vitiligo is an autoimmune condition or genetic disorder. It is not caused by food combinations. This is a common myth with no medical basis."
+  },
+  {
+    "id": 15,
+    "hinglish": "Vitamin C lene se corona virus nahi hota.",
+    "english_reference": "Taking Vitamin C prevents COVID-19.",
+    "label": 0,
+    "explanation": "Vitamin C supports the immune system, but it does not prevent COVID-19 infection. Social distancing, masks, and vaccines are the proven preventive measures."
+  },
+  {
+    "id": 16,
+    "hinglish": "Haldi wala doodh chot thik karne mein madad karta hai.",
+    "english_reference": "Turmeric milk helps in healing injuries.",
+    "label": 1,
+    "explanation": "Curcumin in turmeric has proven anti-inflammatory and antioxidant properties that can aid in the body's natural healing process and reduce swelling."
+  },
+  {
+    "id": 17,
+    "hinglish": "Phal khane ka sahi waqt sirf subah hota hai.",
+    "english_reference": "The only right time to eat fruit is in the morning.",
+    "label": 2,
+    "explanation": "You can eat fruit at any time of the day to get its nutritional benefits. There is no evidence that it becomes 'toxic' or loses value in the evening."
+  },
+  {
+    "id": 18,
+    "hinglish": "Caffeine se blood pressure badh sakta hai.",
+    "english_reference": "Caffeine can increase blood pressure.",
+    "label": 1,
+    "explanation": "Caffeine causes a short-term, temporary spike in blood pressure, even in people who don't have high blood pressure. Long-term effects vary by individual."
+  },
+  {
+    "id": 19,
+    "hinglish": "Mask peenne se oxygen ki kami ho jati hai.",
+    "english_reference": "Wearing a mask causes oxygen deficiency (hypoxia).",
+    "label": 0,
+    "explanation": "Standard surgical and cloth masks are designed to be breathable. They allow oxygen and CO2 molecules to pass through easily while blocking larger respiratory droplets."
+  },
+  {
+    "id": 20,
+    "hinglish": "Bina doctor ke salah ke multivitamin lena nuksandah ho sakta hai.",
+    "english_reference": "Taking multivitamins without a doctor's advice can be harmful.",
+    "label": 1,
+    "explanation": "Excessive intake of certain fat-soluble vitamins (like A, D, E, and K) can lead to toxicity (hypervitaminosis) and interfere with other medications."
+  }
+]

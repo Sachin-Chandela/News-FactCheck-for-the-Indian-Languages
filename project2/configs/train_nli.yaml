@@ -1,0 +1,47 @@
+# project2/configs/train_nli.yaml
+# Fine-tuning config for RoBERTa and PubMedBERT on SciFact (finetune.py)
+
+models:
+  - name: "roberta-base"
+    save_path: "../models/roberta_medical"
+  - name: "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract"
+    save_path: "../models/pubmed_medical"
+
+data:
+  train_claims: "../data/SciFact/claims_train.csv"
+  train_corpus: "../data/SciFact/corpus_train.csv"
+  val_claims: "../data/SciFact/claims_validation.csv"
+  val_corpus: "../data/SciFact/corpus_train.csv"
+  claim_col: "claim"
+  evidence_col: "evidence_sentence"
+  label_col: "evidence_label"
+
+# SciFact → NLI integer label mapping
+labels:
+  SUPPORT: 0
+  CONTRADICT: 1
+  NEUTRAL: 2           # default for unrecognised labels
+
+# SciFact → test_set.json label bridge
+# (applied at evaluation time, not training time)
+eval_label_bridge:
+  0: 1   # SUPPORT → TRUE
+  1: 0   # CONTRADICT → FALSE
+  2: 2   # NEUTRAL → NEUTRAL
+
+tokenizer:
+  max_length: 512
+  padding: "max_length"
+  truncation: true
+
+training:
+  per_device_train_batch_size: 8
+  per_device_eval_batch_size: 16
+  num_train_epochs: 3
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  fp16: true
+  save_strategy: "no"
+  eval_strategy: "epoch"
+  logging_steps: 50
+  report_to: "none"

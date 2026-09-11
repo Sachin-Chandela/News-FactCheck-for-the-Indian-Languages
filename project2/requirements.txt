@@ -1,0 +1,12 @@
+torch==2.2.2
+transformers==4.44.0
+datasets==2.20.0
+sentence-transformers==3.0.1
+faiss-gpu==1.7.4
+accelerate==0.33.0
+bitsandbytes==0.43.3
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+gradio==4.42.0
+evaluate==0.4.2

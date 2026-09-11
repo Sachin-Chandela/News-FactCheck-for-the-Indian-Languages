@@ -1,0 +1,46 @@
+# project2/configs/evaluation.yaml
+# Ablation study configuration for research_evaluator.py and final_pipeline_evaluator.py
+
+test_set: "../data/test_set.json"
+
+# The 4 pipeline configurations benchmarked in the ablation study
+scenarios:
+  - name: "Baseline (Direct Hinglish)"
+    model_path: "bert-base-uncased"
+    use_translation: false
+    notes: "Raw Hinglish fed directly to BERT — control condition"
+
+  - name: "RoBERTa (Translated)"
+    model_path: "roberta-base"
+    use_translation: true
+    notes: "Llama translation + generic pretrained RoBERTa"
+
+  - name: "RoBERTa FT (Translated)"
+    model_path: "../models/roberta_medical"
+    use_translation: true
+    notes: "Llama translation + RoBERTa fine-tuned on SciFact"
+
+  - name: "PubMedBERT FT (Translated)"
+    model_path: "../models/pubmed_medical"
+    use_translation: true
+    notes: "Proposed system: Llama + PubMedBERT fine-tuned on SciFact"
+
+# Label mapping applied at evaluation time
+# Bridges SciFact training labels to test_set.json labels
+label_bridge:
+  0: 1   # model SUPPORT → test TRUE
+  1: 0   # model CONTRADICT → test FALSE
+  2: 2   # model NEUTRAL → test NEUTRAL
+
+# Which columns to use from test_set.json
+fields:
+  hinglish_col: "hinglish"
+  english_col: "english_reference"   # used by research_evaluator (no Llama)
+  evidence_col: "explanation"
+  label_col: "label"
+
+# Metrics reported
+metrics:
+  - accuracy
+  - f1_macro
+  - avg_confidence

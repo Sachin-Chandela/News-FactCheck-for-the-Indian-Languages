@@ -1,0 +1,52 @@
+# project2/configs/pipeline.yaml
+# Runtime configuration for integrated_checker.py, GUI.py, and inference scripts
+
+# ── Model Paths ────────────────────────────────────────────────────────────────
+models:
+  # Stage 1: Translation
+  llm_translator: "meta-llama/Llama-3.2-3B-Instruct"
+  llm_quantization: "4bit"          # options: 4bit | 8bit | none
+  llm_compute_dtype: "float16"
+
+  # Stage 2: Retrieval
+  medical_index_dir: "index"
+  medical_embed_model: "intfloat/multilingual-e5-base"
+
+  # Stage 3: NLI verdict
+  pubmed_nli: "../models/pubmed_medical"
+  roberta_nli: "../models/roberta_medical"
+  nli_cross_encoder: "cross-encoder/nli-deberta-v3-small"  # used in integrated_checker
+
+# ── Translation Settings ───────────────────────────────────────────────────────
+translation:
+  max_new_tokens: 40
+  system_prompt: >
+    Translate the user's Hinglish health claim to one formal English sentence.
+    Output ONLY the translation, with no preamble or explanation.
+
+# ── Retrieval Settings ─────────────────────────────────────────────────────────
+retrieval:
+  top_k: 3                          # number of matches returned by default
+  embed_prefix: "query: "           # e5 models need "query: " prefix at inference
+  passage_prefix: "passage: "       # and "passage: " prefix at index build time
+  min_explanation_length: 150       # filter out short/noisy PubHealth entries
+
+# ── NLI / Verdict ─────────────────────────────────────────────────────────────
+nli:
+  # integrated_checker label order (cross-encoder/nli-deberta-v3-small)
+  # index 0 = Contradiction, 1 = Entailment, 2 = Neutral
+  label_map:
+    0: "🔴 FALSE (Contradicts Research)"
+    1: "🟢 TRUE (Supported)"
+    2: "🟡 UNCLEAR (Mixed Evidence)"
+
+# ── Gradio UI ─────────────────────────────────────────────────────────────────
+gradio:
+  server_name: "0.0.0.0"
+  server_port: 7860
+  share: false
+  theme: "soft"
+
+# ── Data Paths ────────────────────────────────────────────────────────────────
+data:
+  test_set: "../data/test_set.json"
