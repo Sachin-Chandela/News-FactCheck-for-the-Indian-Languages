@@ -1,0 +1,55 @@
+# project1/configs/train_muril.yaml
+# Hyperparameters for MuRIL fact-check classifier (train_classifier.py)
+
+model:
+  name: "google/muril-base-cased"
+  num_labels: 4
+  ignore_mismatched_sizes: true
+
+labels:
+  true: 0
+  false: 1
+  misleading: 2
+  other: 3
+
+data:
+  train_csv: "../data/final_dataset.csv"
+  claim_col: "claim"
+  evidence_col: "evidence"   # sentence B fed to model alongside claim
+  label_col: "label"
+  test_size: 0.1
+  random_state: 42
+
+tokenizer:
+  max_length: 256
+  padding: "max_length"
+  truncation: true
+
+training:
+  output_dir: "../models/muril"
+  num_train_epochs: 5
+  per_device_train_batch_size: 16
+  per_device_eval_batch_size: 16
+  gradient_accumulation_steps: 2
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  lr_scheduler_type: "cosine"
+  fp16: true
+  logging_steps: 50
+  eval_strategy: "epoch"
+  save_strategy: "epoch"
+  load_best_model_at_end: true
+  metric_for_best_model: "f1_macro"
+  greater_is_better: true
+  report_to: "none"
+
+loss:
+  class_weighting: true   # balanced weights via sklearn.utils.class_weight
+  label_smoothing: 0.1
+
+retriever:
+  embed_model: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  embed_batch_size: 128
+  faiss_index_path: "../models/fact_index.faiss"
+  claims_pkl_path: "../models/claims.pkl"

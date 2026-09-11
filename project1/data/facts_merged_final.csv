@@ -1,0 +1,831 @@
+claim,language,label,source,evidence,topic
+Narendra Modi is the Prime Minister of India,en,True,official_record,Narendra Modi has served as India's Prime Minister since May 2014,politics
+Vladimir Putin is the President of Russia,en,True,official_record,Vladimir Putin has served as President of Russia across multiple terms since 2000,politics
+Xi Jinping is the President of China,en,True,official_record,Xi Jinping has been General Secretary of the CCP and President of China since 2013,politics
+Joe Biden served as the 46th President of the United States,en,True,official_record,Joe Biden was inaugurated as the 46th US President on January 20 2021,politics
+Emmanuel Macron is the President of France,en,True,official_record,Emmanuel Macron has been President of France since May 2017,politics
+Olaf Scholz is the Chancellor of Germany,en,True,official_record,Olaf Scholz succeeded Angela Merkel as German Chancellor in December 2021,politics
+Cyril Ramaphosa is the President of South Africa,en,True,official_record,Cyril Ramaphosa has been President of South Africa since February 2018,politics
+Luiz Inácio Lula da Silva is the President of Brazil,en,True,official_record,Lula da Silva returned to the presidency of Brazil in January 2023,politics
+Abdel Fattah el-Sisi is the President of Egypt,en,True,official_record,Abdel Fattah el-Sisi has been President of Egypt since 2014,politics
+India is a federal parliamentary democratic republic,en,True,official_record,India's government is based on the Westminster model of parliamentary democracy,politics
+The Indian Parliament consists of the Lok Sabha and the Rajya Sabha,en,True,official_record,The Lok Sabha is the lower house and the Rajya Sabha is the upper house of India's Parliament,politics
+India became independent from British rule on August 15 1947,en,True,official_record,India's independence was achieved through the efforts of leaders like Gandhi and Nehru,politics
+The Indian Constitution came into effect on January 26 1950,en,True,official_record,January 26 is celebrated as Republic Day in India,politics
+Dr B R Ambedkar was the chairman of the drafting committee of the Indian Constitution,en,True,official_record,Ambedkar is known as the father of the Indian Constitution,politics
+Jawaharlal Nehru was the first Prime Minister of India,en,True,official_record,Nehru served as India's first PM from 1947 until his death in 1964,politics
+Rajendra Prasad was the first President of India,en,True,official_record,Rajendra Prasad served as India's first President from 1950 to 1962,politics
+Indira Gandhi was the first female Prime Minister of India,en,True,official_record,Indira Gandhi served as PM from 1966 to 1977 and again from 1980 to 1984,politics
+Mahatma Gandhi led India's nonviolent independence movement,en,True,official_record,Gandhi pioneered the philosophy of nonviolent civil disobedience called satyagraha,politics
+The Indian National Congress was founded in 1885,en,True,official_record,The INC was one of the primary forces behind India's independence movement,politics
+The Bharatiya Janata Party was founded in 1980,en,True,official_record,The BJP is currently the ruling party of India under Narendra Modi,politics
+India has 28 states and 8 union territories,en,True,official_record,India's federal structure divides the country into states and union territories,politics
+India's currency is the Indian Rupee,en,True,official_record,The Indian Rupee has the currency code INR,politics
+The Reserve Bank of India is the country's central bank,en,True,official_record,The RBI was established in 1935 and manages India's monetary policy,politics
+Droupadi Murmu became India's first tribal President in 2022,en,True,official_record,Droupadi Murmu was elected India's 15th President in July 2022,politics
+India is the world's largest democracy,en,True,official_record,India has the largest number of eligible voters of any democratic country,politics
+The Lok Sabha has 543 elected members,en,True,official_record,The Lok Sabha is directly elected by citizens and can have up to 543 elected members,politics
+The Rajya Sabha has a maximum of 250 seats,en,True,official_record,The Rajya Sabha has 250 seats including 12 nominated members,politics
+India's first general elections were held in 1951 to 1952,en,True,official_record,India's first general elections were the largest democratic exercise in the world at the time,politics
+The Election Commission of India oversees free and fair elections,en,True,official_record,The ECI is an autonomous constitutional authority established in 1950,politics
+The Constitution of India is the longest written constitution in the world,en,True,official_record,India's Constitution originally had 395 articles and 8 schedules,politics
+Fundamental Rights in the Indian Constitution are guaranteed to all citizens,en,True,official_record,Part III of the Indian Constitution contains the Fundamental Rights,politics
+"The Indian National Flag has three colours: saffron, white, and green",en,True,official_record,India's tricolour also features the Ashoka Chakra in blue at its centre,politics
+The national emblem of India is the Lion Capital of Ashoka,en,True,official_record,The Lion Capital is adapted from the Sarnath pillar erected by Emperor Ashoka,politics
+Jana Gana Mana is the national anthem of India,en,True,official_record,The national anthem was composed by Rabindranath Tagore and adopted in 1950,politics
+Vande Mataram is the national song of India,en,True,official_record,Vande Mataram was composed by Bankim Chandra Chattopadhyay,politics
+The tiger is the national animal of India,en,True,official_record,The Bengal tiger was declared the national animal of India in 1973,politics
+The peacock is the national bird of India,en,True,official_record,The Indian peacock was declared the national bird in 1963,politics
+The lotus is the national flower of India,en,True,official_record,The lotus symbolises purity and beauty in Indian culture,politics
+The mango is the national fruit of India,en,True,official_record,India is the world's largest producer of mangoes,politics
+The banyan tree is the national tree of India,en,True,official_record,The banyan tree is associated with immortality and found across India,politics
+Sardar Vallabhbhai Patel integrated the princely states into India,en,True,official_record,Patel is known as the Iron Man of India for unifying over 500 princely states,politics
+The Jallianwala Bagh massacre occurred in Amritsar in 1919,en,True,official_record,British troops fired on a peaceful gathering killing hundreds on April 13 1919,politics
+The Quit India Movement was launched in 1942,en,True,official_record,Mahatma Gandhi launched the movement demanding an end to British rule,politics
+India adopted Hindi and English as its official languages,en,True,official_record,The Indian Constitution recognizes Hindi and English as official languages of the Union,politics
+The Indian Administrative Service is the elite civil service of India,en,True,official_record,IAS officers form the backbone of India's administrative machinery,politics
+India is a nuclear-armed state,en,True,official_record,India conducted its first nuclear test in 1974 and its second series in 1998,politics
+India's space program is managed by ISRO,en,True,official_record,The Indian Space Research Organisation was established in 1969,politics
+India's Chandrayaan-3 made a successful lunar landing in 2023,en,True,official_record,Chandrayaan-3 landed near the Moon's south pole on August 23 2023,politics
+India's Mars Orbiter Mission Mangalyaan was launched in 2013,en,True,official_record,India became the first country to reach Mars orbit on its first attempt,politics
+The Panchayati Raj system is India's local self-government structure,en,True,official_record,Panchayati Raj was established by the 73rd Constitutional Amendment in 1992,politics
+Manmohan Singh served as Prime Minister of India from 2004 to 2014,en,True,official_record,Singh was India's first Sikh Prime Minister,politics
+P V Narasimha Rao introduced economic liberalisation in India in 1991,en,True,official_record,Rao's government opened India to foreign investment and liberalised the economy,politics
+Atal Bihari Vajpayee was a former Prime Minister of India,en,True,official_record,Vajpayee served three terms as PM and oversaw the Pokhran-II nuclear tests,politics
+GST in India stands for Goods and Services Tax,en,True,official_record,GST was introduced in India on July 1 2017 as a unified indirect tax,politics
+NITI Aayog replaced the Planning Commission of India in 2015,en,True,official_record,NITI Aayog stands for National Institution for Transforming India,politics
+India held the G20 Presidency in 2023,en,True,official_record,India's G20 theme was Vasudhaiva Kutumbakam meaning One Earth One Family One Future,politics
+The Rupee symbol was adopted in 2010,en,True,official_record,The Indian Rupee symbol was designed by Udaya Kumar and officially adopted on July 15 2010,politics
+India launched its first satellite Aryabhata in 1975,en,True,official_record,Aryabhata was launched with Soviet assistance on April 19 1975,politics
+Article 370 granted special status to Jammu and Kashmir,en,True,official_record,Article 370 was revoked by the Indian government in August 2019,politics
+Subhas Chandra Bose founded the Indian National Army,en,True,official_record,The INA fought for India's independence during World War II,politics
+Bhagat Singh was executed by the British in 1931,en,True,official_record,Bhagat Singh was a revolutionary freedom fighter executed at age 23,politics
+India's Supreme Court was established in 1950,en,True,official_record,The Supreme Court is the final court of appeal and guardian of the Constitution,politics
+The Simla Agreement of 1972 established the Line of Control between India and Pakistan,en,True,official_record,The Simla Agreement was signed after the 1971 Indo-Pakistan war,politics
+The India-Pakistan partition in 1947 caused one of history's largest mass migrations,en,True,official_record,An estimated 14 to 18 million people were displaced during the 1947 partition,politics
+The United Nations was founded in 1945,en,True,official_record,The UN was established on October 24 1945 after World War II,politics
+The UN Security Council has five permanent members,en,True,official_record,"The P5 are the US, UK, France, Russia, and China, each holding veto power",politics
+The UN General Assembly has 193 member states,en,True,official_record,The UNGA is the main deliberative body of the United Nations,politics
+NATO is a military alliance of North American and European countries,en,True,official_record,NATO was founded in 1949 and has 32 member states as of 2024,politics
+The European Union has 27 member states,en,True,official_record,The EU was established by the Maastricht Treaty in 1993,politics
+The G20 is a forum of the world's major economies,en,True,official_record,G20 members represent about 85 percent of global GDP,politics
+The World Trade Organization regulates international trade,en,True,official_record,The WTO was established in 1995 replacing the General Agreement on Tariffs and Trade,politics
+The International Monetary Fund provides financial assistance to countries,en,True,official_record,The IMF was established in 1944 and has 190 member countries,politics
+The World Bank provides loans to developing countries,en,True,official_record,The World Bank focuses on reducing poverty and promoting sustainable development,politics
+ASEAN is an organization of Southeast Asian nations,en,True,official_record,ASEAN was founded in 1967 and has 10 member states,politics
+The African Union is a continental organization of African states,en,True,official_record,The AU was established in 2002 succeeding the Organization of African Unity,politics
+The United Nations headquarters is in New York City,en,True,official_record,"The UN Headquarters has been in Manhattan, New York since 1952",politics
+"NATO headquarters is located in Brussels, Belgium",en,True,official_record,NATO moved to its current Brussels building in 2018,politics
+The International Criminal Court is based in The Hague,en,True,official_record,The ICC was established in 2002 to prosecute war crimes and crimes against humanity,politics
+"The BRICS group includes Brazil, Russia, India, China, and South Africa",en,True,official_record,BRICS nations represent major emerging market economies,politics
+The Universal Declaration of Human Rights was adopted by the UN in 1948,en,True,official_record,The UDHR was proclaimed on December 10 1948,politics
+The Geneva Conventions set standards for humanitarian treatment during war,en,True,official_record,The Geneva Conventions form the basis of international humanitarian law,politics
+The Red Cross is an international humanitarian organisation,en,True,official_record,The ICRC was founded in 1863 and operates in conflict zones worldwide,politics
+The Paris Agreement is an international treaty on climate change,en,True,official_record,The Paris Agreement was adopted in 2015 to limit warming to well below 2°C,politics
+Brexit refers to the UK's withdrawal from the European Union,en,True,official_record,The UK officially left the EU on January 31 2020,politics
+The Schengen Area allows passport-free travel across 27 European countries,en,True,official_record,The Schengen Agreement was signed in 1985 and implemented in 1995,politics
+The European Union uses the euro as its common currency,en,True,official_record,The eurozone consists of 20 EU member states that use the euro,politics
+George Washington was the first President of the United States,en,True,official_record,Washington served two terms as US President from 1789 to 1797,history
+Abraham Lincoln was the 16th President of the United States,en,True,official_record,Lincoln led the US through the Civil War and signed the Emancipation Proclamation,history
+The US Declaration of Independence was signed in 1776,en,True,official_record,The Declaration was adopted by the Continental Congress on July 4 1776,history
+The US Constitution was ratified in 1788,en,True,official_record,The US Constitution came into force in 1789 and is the oldest written national constitution in use,history
+The French Revolution began in 1789,en,True,official_record,The French Revolution overthrew the monarchy and established the First French Republic,history
+Napoleon Bonaparte became Emperor of France in 1804,en,True,official_record,Napoleon crowned himself Emperor at Notre-Dame Cathedral in Paris,history
+World War I began in 1914 and ended in 1918,en,True,official_record,WWI was triggered by the assassination of Archduke Franz Ferdinand in Sarajevo,history
+World War II lasted from 1939 to 1945,en,True,official_record,WWII involved most of the world's nations and resulted in over 70 million deaths,history
+The Cold War was a geopolitical tension between the US and USSR,en,True,official_record,The Cold War lasted from roughly 1947 to 1991,history
+The Soviet Union dissolved in 1991,en,True,official_record,The USSR formally ceased to exist on December 25 1991,history
+The Berlin Wall fell in 1989,en,True,official_record,The Berlin Wall fell on November 9 1989 symbolising the end of the Cold War,history
+Nelson Mandela served as South Africa's first democratically elected President,en,True,official_record,Mandela was President of South Africa from 1994 to 1999,history
+Apartheid was a system of racial segregation in South Africa,en,True,official_record,Apartheid was officially dismantled in 1991 and democratic elections held in 1994,history
+Pakistan was created in 1947 as a separate nation,en,True,official_record,Pakistan was formed from British India in August 1947 as a homeland for Muslims,history
+Bangladesh gained independence from Pakistan in 1971,en,True,official_record,Bangladesh declared independence on March 26 1971 after a liberation war,history
+Ghana was the first sub-Saharan African country to gain independence in 1957,en,True,official_record,Ghana gained independence from Britain on March 6 1957 under Kwame Nkrumah,history
+South Sudan became the world's newest country in 2011,en,True,official_record,South Sudan gained independence from Sudan on July 9 2011,history
+India's first satellite Aryabhata was launched in 1975,en,True,official_record,Aryabhata was India's first satellite launched with Soviet assistance,history
+The capital of India is New Delhi,en,True,encyclopaedia,New Delhi is the capital territory and seat of government of India,geography
+The capital of the United States is Washington D.C.,en,True,encyclopaedia,Washington D.C. has been the federal capital of the US since 1800,geography
+The capital of the United Kingdom is London,en,True,encyclopaedia,London has been the capital of England and the UK for centuries,geography
+The capital of France is Paris,en,True,encyclopaedia,Paris is the official capital and largest city of France,geography
+The capital of Germany is Berlin,en,True,encyclopaedia,Berlin became the capital of reunified Germany in 1990,geography
+The capital of Japan is Tokyo,en,True,encyclopaedia,Tokyo is the capital and most populous city of Japan,geography
+The capital of China is Beijing,en,True,encyclopaedia,Beijing has been the capital of China since 1949,geography
+The capital of Russia is Moscow,en,True,encyclopaedia,Moscow is the capital and largest city of Russia,geography
+The capital of Brazil is Brasília,en,True,encyclopaedia,Brasília replaced Rio de Janeiro as Brazil's capital in 1960,geography
+The capital of Australia is Canberra,en,True,encyclopaedia,Canberra was purpose-built as Australia's capital and inaugurated in 1927,geography
+The capital of Canada is Ottawa,en,True,encyclopaedia,Ottawa has been Canada's capital since 1857,geography
+The capital of Pakistan is Islamabad,en,True,encyclopaedia,Islamabad replaced Karachi as Pakistan's capital in 1958,geography
+The capital of Bangladesh is Dhaka,en,True,encyclopaedia,Dhaka is the capital and largest city of Bangladesh,geography
+The capital of South Africa is Pretoria,en,True,encyclopaedia,Pretoria is the executive capital of South Africa,geography
+The capital of Egypt is Cairo,en,True,encyclopaedia,Cairo is the capital and largest city of Egypt,geography
+The capital of Saudi Arabia is Riyadh,en,True,encyclopaedia,Riyadh is the capital and largest city of Saudi Arabia,geography
+The capital of Turkey is Ankara,en,True,encyclopaedia,Ankara replaced Istanbul as Turkey's capital in 1923,geography
+The capital of Nigeria is Abuja,en,True,encyclopaedia,Abuja replaced Lagos as Nigeria's capital in 1991,geography
+The capital of Kenya is Nairobi,en,True,encyclopaedia,Nairobi is the capital and largest city of Kenya,geography
+The capital of Indonesia is Jakarta,en,True,encyclopaedia,Jakarta was the capital of Indonesia before the planned move to Nusantara,geography
+The capital of South Korea is Seoul,en,True,encyclopaedia,Seoul is the capital and largest city of South Korea,geography
+The capital of Italy is Rome,en,True,encyclopaedia,Rome has been the capital of Italy since 1871,geography
+The capital of Spain is Madrid,en,True,encyclopaedia,Madrid is the capital and largest city of Spain,geography
+The capital of Mexico is Mexico City,en,True,encyclopaedia,Mexico City is the capital and most populous city of Mexico,geography
+The capital of Argentina is Buenos Aires,en,True,encyclopaedia,Buenos Aires is the capital and largest city of Argentina,geography
+The capital of Sweden is Stockholm,en,True,encyclopaedia,Stockholm is the capital and most populous city of Sweden,geography
+The capital of Norway is Oslo,en,True,encyclopaedia,Oslo is the capital and most populous city of Norway,geography
+The capital of Netherlands is Amsterdam,en,True,encyclopaedia,Amsterdam is the official capital of the Netherlands,geography
+The capital of Poland is Warsaw,en,True,encyclopaedia,Warsaw is the capital and largest city of Poland,geography
+The capital of Greece is Athens,en,True,encyclopaedia,Athens is the capital and largest city of Greece,geography
+The capital of Iran is Tehran,en,True,encyclopaedia,Tehran is the capital and largest city of Iran,geography
+The capital of Afghanistan is Kabul,en,True,encyclopaedia,Kabul is the capital and largest city of Afghanistan,geography
+The capital of Thailand is Bangkok,en,True,encyclopaedia,Bangkok is the capital and most populous city of Thailand,geography
+The capital of Malaysia is Kuala Lumpur,en,True,encyclopaedia,Kuala Lumpur is the federal capital of Malaysia,geography
+The capital of Philippines is Manila,en,True,encyclopaedia,Manila is the capital city of the Philippines,geography
+The capital of New Zealand is Wellington,en,True,encyclopaedia,Wellington is the capital city of New Zealand,geography
+The capital of Colombia is Bogotá,en,True,encyclopaedia,Bogotá is the capital and largest city of Colombia,geography
+The capital of Peru is Lima,en,True,encyclopaedia,Lima is the capital and largest city of Peru,geography
+The capital of Morocco is Rabat,en,True,encyclopaedia,Rabat is the capital of Morocco,geography
+The capital of Sri Lanka is Colombo,en,True,encyclopaedia,Colombo is the commercial capital and largest city of Sri Lanka,geography
+The capital of Nepal is Kathmandu,en,True,encyclopaedia,Kathmandu is the capital and largest city of Nepal,geography
+The capital of Myanmar is Naypyidaw,en,True,encyclopaedia,Naypyidaw replaced Yangon as Myanmar's capital in 2006,geography
+The capital of Vietnam is Hanoi,en,True,encyclopaedia,Hanoi is the capital of Vietnam,geography
+The capital of Ukraine is Kyiv,en,True,encyclopaedia,Kyiv is the capital and most populous city of Ukraine,geography
+The capital of Israel is Jerusalem,en,True,encyclopaedia,Jerusalem is proclaimed as the capital of Israel,geography
+The capital of Portugal is Lisbon,en,True,encyclopaedia,Lisbon is the capital and largest city of Portugal,geography
+The capital of Austria is Vienna,en,True,encyclopaedia,Vienna is the capital and largest city of Austria,geography
+The capital of Belgium is Brussels,en,True,encyclopaedia,Brussels is the capital of Belgium,geography
+The capital of Switzerland is Bern,en,True,encyclopaedia,Bern is the de facto capital of Switzerland,geography
+The capital of Denmark is Copenhagen,en,True,encyclopaedia,Copenhagen is the capital of Denmark,geography
+The capital of Chile is Santiago,en,True,encyclopaedia,Santiago is the capital and largest city of Chile,geography
+The capital of Cuba is Havana,en,True,encyclopaedia,Havana is the capital and largest city of Cuba,geography
+The capital of Venezuela is Caracas,en,True,encyclopaedia,Caracas is the capital and largest city of Venezuela,geography
+The capital of Ethiopia is Addis Ababa,en,True,encyclopaedia,Addis Ababa is the capital city of Ethiopia,geography
+The capital of Ghana is Accra,en,True,encyclopaedia,Accra is the capital and largest city of Ghana,geography
+The capital of Tanzania is Dodoma,en,True,encyclopaedia,Dodoma is the official capital of Tanzania,geography
+The capital of Uganda is Kampala,en,True,encyclopaedia,Kampala is the capital and largest city of Uganda,geography
+The capital of Rwanda is Kigali,en,True,encyclopaedia,Kigali is the capital and largest city of Rwanda,geography
+The capital of Singapore is Singapore City,en,True,encyclopaedia,Singapore is a city-state where the capital and the country are the same,geography
+The capital of Cambodia is Phnom Penh,en,True,encyclopaedia,Phnom Penh is the capital and largest city of Cambodia,geography
+The capital of Cuba is Havana,en,True,encyclopaedia,"Havana is the political, cultural, and economic centre of Cuba",geography
+The capital of Ireland is Dublin,en,True,encyclopaedia,Dublin is the capital and largest city of Ireland,geography
+The capital of Hungary is Budapest,en,True,encyclopaedia,Budapest is the capital and most populous city of Hungary,geography
+The capital of Romania is Bucharest,en,True,encyclopaedia,Bucharest is the capital and largest city of Romania,geography
+The capital of Czech Republic is Prague,en,True,encyclopaedia,Prague is the capital and largest city of the Czech Republic,geography
+The capital of Finland is Helsinki,en,True,encyclopaedia,Helsinki is the capital and most populous city of Finland,geography
+Water has the chemical formula H2O,en,True,science,Water consists of two hydrogen atoms covalently bonded to one oxygen atom,science
+The speed of light in a vacuum is approximately 299792 kilometres per second,en,True,science,Light travels at 299792458 metres per second in a vacuum,science
+The periodic table has 118 confirmed elements,en,True,science,Element 118 oganesson was officially confirmed in 2015,science
+Hydrogen is the lightest and most abundant element in the universe,en,True,science,Hydrogen makes up about 75 percent of all normal matter by mass in the universe,science
+Oxygen is the most abundant element in Earth's crust,en,True,science,Oxygen makes up about 46 percent of Earth's crust by mass,science
+Gold has the chemical symbol Au from the Latin word aurum,en,True,science,Au is the chemical symbol for gold derived from the Latin aurum,science
+Iron has the chemical symbol Fe from the Latin word ferrum,en,True,science,Fe is the chemical symbol for iron derived from the Latin ferrum,science
+Silver has the chemical symbol Ag from the Latin word argentum,en,True,science,Ag is the chemical symbol for silver derived from the Latin argentum,science
+Sodium has the chemical symbol Na from the Latin word natrium,en,True,science,Na is the chemical symbol for sodium derived from the Latin natrium,science
+Potassium has the chemical symbol K from the Latin word kalium,en,True,science,K is the chemical symbol for potassium derived from the Latin kalium,science
+Copper has the chemical symbol Cu from the Latin word cuprum,en,True,science,Cu is the chemical symbol for copper derived from the Latin cuprum,science
+Lead has the chemical symbol Pb from the Latin word plumbum,en,True,science,Pb is the chemical symbol for lead derived from the Latin plumbum,science
+The atomic number of hydrogen is 1,en,True,science,Hydrogen has 1 proton in its nucleus and is the simplest element,science
+The atomic number of carbon is 6,en,True,science,Carbon has 6 protons in its nucleus and is the basis of all known life,science
+The atomic number of oxygen is 8,en,True,science,Oxygen has 8 protons in its nucleus,science
+The atomic number of gold is 79,en,True,science,Gold has 79 protons in its nucleus,science
+The atomic number of uranium is 92,en,True,science,Uranium has 92 protons and is the heaviest naturally occurring element,science
+Sodium chloride is the chemical name for common table salt,en,True,science,Table salt has the chemical formula NaCl,science
+Carbon dioxide has the chemical formula CO2,en,True,science,CO2 consists of one carbon atom bonded to two oxygen atoms,science
+Diamonds are made of carbon atoms arranged in a crystal lattice,en,True,science,Diamond is the hardest naturally occurring substance and is an allotrope of carbon,science
+The pH scale measures acidity and alkalinity from 0 to 14,en,True,science,"A pH of 7 is neutral, below 7 is acidic, and above 7 is alkaline",science
+Pure water has a pH of 7 making it neutral,en,True,science,Distilled water has a pH of 7 at 25 degrees Celsius,science
+Ionic bonds form when atoms transfer electrons,en,True,science,Ionic bonds occur between atoms with large differences in electronegativity,science
+Covalent bonds form when atoms share electrons,en,True,science,Covalent bonds are common in organic molecules,science
+The periodic table was created by Dmitri Mendeleev in 1869,en,True,science,Mendeleev arranged elements by atomic mass and predicted undiscovered elements,science
+Absolute zero is minus 273.15 degrees Celsius or 0 Kelvin,en,True,science,At absolute zero all molecular motion theoretically ceases,science
+Water boils at 100 degrees Celsius at standard atmospheric pressure,en,True,science,Water boils at 100°C or 212°F at 1 atmosphere of pressure,science
+Water freezes at 0 degrees Celsius at standard atmospheric pressure,en,True,science,Water freezes at 0°C or 32°F at standard atmospheric pressure,science
+Ozone in the stratosphere protects Earth from ultraviolet radiation,en,True,science,The ozone layer absorbs most of the Sun's harmful UV radiation,science
+CFCs are responsible for ozone layer depletion,en,True,science,Chlorofluorocarbons were banned by the 1987 Montreal Protocol,science
+Sublimation is the transition from solid directly to gas,en,True,science,Dry ice sublimates at room temperature turning directly to CO2 gas,science
+Evaporation occurs when liquid water becomes water vapour,en,True,science,Evaporation is driven by thermal energy at the surface of liquid water,science
+Condensation occurs when water vapour becomes liquid water,en,True,science,Condensation releases latent heat and forms clouds and dew,science
+The Earth orbits the Sun once every 365.25 days,en,True,science,Earth's orbital period averages 365.25 days leading to leap years every four years,science
+The gravitational acceleration on Earth's surface is approximately 9.8 m per second squared,en,True,science,Standard gravity is defined as 9.80665 m/s² at Earth's surface,science
+Sound travels faster in solids than in gases,en,True,science,Sound moves at about 5000 m/s in steel but only 343 m/s in air,science
+Light travels faster than sound,en,True,science,Light travels at 300000 km/s while sound travels at 343 m/s in air,science
+Sound cannot travel through a vacuum,en,True,science,Sound is a mechanical wave and requires a medium such as air or water to propagate,science
+The speed of sound in air at 20 degrees Celsius is approximately 343 metres per second,en,True,science,Sound speed in air depends on temperature and humidity,science
+The Law of Conservation of Energy states energy cannot be created or destroyed,en,True,science,Energy can only be converted from one form to another,science
+The Law of Conservation of Mass states matter is not created or destroyed in chemical reactions,en,True,science,Total mass of reactants equals total mass of products in any chemical reaction,science
+Newton's first law states an object stays at rest or in motion unless acted on by a force,en,True,science,This is also known as the law of inertia,science
+Newton's second law states force equals mass times acceleration,en,True,science,F = ma is one of the most fundamental equations in classical mechanics,science
+Newton's third law states every action has an equal and opposite reaction,en,True,science,This principle explains how rockets propel themselves in space,science
+Electric current is measured in amperes,en,True,science,The ampere is the SI base unit of electric current,science
+Voltage is measured in volts,en,True,science,Voltage is the electric potential difference between two points in a circuit,science
+Resistance is measured in ohms,en,True,science,"Ohm's Law states V = IR where V is voltage, I is current, and R is resistance",science
+Energy is measured in joules,en,True,science,"The joule is the SI unit of energy, work, and heat",science
+Force is measured in newtons,en,True,science,One newton is the force needed to accelerate 1 kg at 1 m/s²,science
+Power is measured in watts,en,True,science,One watt equals one joule of energy transferred per second,science
+Mass is measured in kilograms,en,True,science,The kilogram is the base unit of mass in the SI system,science
+The electromagnetic spectrum ranges from radio waves to gamma rays,en,True,science,Visible light is only a small portion of the full electromagnetic spectrum,science
+The wavelength of visible light ranges from about 380 to 700 nanometres,en,True,science,Violet has the shortest visible wavelength and red has the longest,science
+X-rays pass through soft tissue but are absorbed by dense matter like bone,en,True,science,This property makes X-rays useful for medical imaging,science
+Nuclear fission splits atomic nuclei to release energy,en,True,science,Nuclear fission is used in nuclear power plants and atomic bombs,science
+Nuclear fusion combines atomic nuclei to release energy,en,True,science,Fusion powers the Sun and is sought as a clean energy source,science
+Albert Einstein developed the theory of relativity,en,True,science,Einstein published special relativity in 1905 and general relativity in 1915,science
+Plasma is the fourth state of matter,en,True,science,Plasma is ionised gas and is the most common state of visible matter in the universe,science
+Copper is an excellent conductor of electricity,en,True,science,Copper's high conductivity makes it widely used in electrical wiring,science
+Rubber is a good insulator of electricity,en,True,science,Rubber's molecular structure prevents the flow of electric current,science
+Magnets have a north pole and a south pole,en,True,science,Opposite magnetic poles attract while like poles repel,science
+Earth has a magnetic field generated by its molten iron core,en,True,science,Earth's magnetic field forms the magnetosphere that shields us from solar wind,science
+The Doppler effect describes the change in frequency of a wave relative to a moving observer,en,True,science,The Doppler effect causes a siren to sound higher as it approaches and lower as it moves away,science
+Archimedes' principle states an object in fluid experiences an upward buoyant force,en,True,science,Buoyant force equals the weight of the fluid displaced by the object,science
+Pascal's principle states pressure in a fluid is transmitted equally in all directions,en,True,science,Pascal's principle is the basis for hydraulic systems,science
+Radioactive decay is the spontaneous disintegration of an atomic nucleus,en,True,science,"Radioactive decay releases alpha, beta, or gamma radiation",science
+Half-life is the time taken for half of a radioactive substance to decay,en,True,science,Carbon-14 has a half-life of about 5730 years used in radiocarbon dating,science
+"The four fundamental forces are gravity, electromagnetism, strong nuclear, and weak nuclear",en,True,science,These four forces govern all interactions between particles in the universe,science
+Gravity is the weakest of the four fundamental forces,en,True,science,"Despite being weakest, gravity has infinite range and dominates at cosmic scales",science
+A rainbow forms when sunlight is refracted and dispersed by water droplets,en,True,science,Rainbows appear in the direction opposite the Sun at an angle of about 42 degrees,science
+Lightning is an electrical discharge in the atmosphere,en,True,science,Lightning occurs when electric charges build up in storm clouds,science
+DNA stands for deoxyribonucleic acid,en,True,science,DNA carries genetic information in living organisms,science
+"Photosynthesis converts sunlight, water, and CO2 into glucose and oxygen",en,True,science,The equation for photosynthesis is 6CO2 + 6H2O yields C6H12O6 + 6O2,science
+The mitochondria is the powerhouse of the cell,en,True,science,Mitochondria generate most of the cell's ATP through cellular respiration,science
+The human body has 206 bones in adulthood,en,True,science,Newborns have about 270 bones that fuse over time to become 206,science
+The human heart beats about 70 times per minute at rest,en,True,science,A normal resting adult heart rate ranges from 60 to 100 beats per minute,science
+The largest organ in the human body is the skin,en,True,science,Human skin covers about 1.5 to 2 square metres and weighs around 3 to 4 kg,science
+The brain uses about 20 percent of the body's oxygen supply,en,True,science,The brain consumes 20 percent of total body energy despite being only 2 percent of body weight,science
+Red blood cells carry oxygen throughout the body,en,True,science,Red blood cells contain haemoglobin which binds to oxygen molecules,science
+White blood cells are part of the immune system,en,True,science,White blood cells defend the body against infections and foreign substances,science
+The human genome contains approximately 3 billion base pairs,en,True,science,The human haploid genome has about 3.2 billion nucleotide base pairs,science
+Humans have 23 pairs of chromosomes totalling 46,en,True,science,Human somatic cells contain 46 chromosomes arranged in 23 pairs,science
+Mitosis produces two genetically identical daughter cells,en,True,science,Mitosis is the process of cell division for growth and repair,science
+Meiosis produces four genetically unique sex cells,en,True,science,Meiosis results in gametes with half the chromosomes of the parent cell,science
+RNA carries genetic information from DNA to ribosomes,en,True,science,Messenger RNA is transcribed from DNA and translated into proteins at ribosomes,science
+Proteins are made of amino acids,en,True,science,There are 20 standard amino acids used to build all proteins,science
+Enzymes are biological catalysts that speed up chemical reactions,en,True,science,Enzymes lower the activation energy of biochemical reactions,science
+Osmosis is the movement of water across a semi-permeable membrane,en,True,science,Water moves from areas of low solute concentration to high solute concentration,science
+Diffusion is the movement of molecules from high to low concentration,en,True,science,Diffusion is a passive process requiring no energy input,science
+The Krebs cycle is a key part of cellular respiration,en,True,science,The Krebs cycle occurs in the mitochondria producing ATP and CO2,science
+Stem cells can develop into many different cell types,en,True,science,Embryonic stem cells are pluripotent and can differentiate into any cell type,science
+CRISPR is a precise gene editing technology,en,True,science,CRISPR-Cas9 won the 2020 Nobel Prize in Chemistry for its gene editing capability,science
+The liver is the largest internal organ in the human body,en,True,science,The liver performs over 500 functions including detoxification and protein synthesis,science
+Insulin is produced by the pancreas,en,True,science,Insulin regulates blood glucose levels and is essential for energy metabolism,science
+Vaccines train the immune system to recognise pathogens,en,True,science,Vaccines contain antigens that stimulate an immune response without causing disease,science
+Antibiotics treat bacterial but not viral infections,en,True,science,Antibiotics inhibit or kill bacteria but have no effect on viruses,science
+Viruses are not considered living organisms,en,True,science,Viruses lack cellular structure and must use host cells to replicate,science
+Bacteria are single-celled prokaryotic organisms,en,True,science,Bacteria lack a membrane-bound nucleus and are found in nearly every habitat,science
+Alexander Fleming discovered penicillin in 1928,en,True,science,Fleming observed a Penicillium mould killing bacteria on his petri dish,science
+Marie Curie discovered polonium and radium,en,True,science,Curie was the first person to win Nobel Prizes in two sciences: Physics and Chemistry,science
+Charles Darwin proposed the theory of evolution by natural selection,en,True,science,Darwin published On the Origin of Species in 1859,science
+Isaac Newton formulated the laws of motion and universal gravitation,en,True,science,Newton published his Principia Mathematica in 1687,science
+Blood type is determined by antigens on red blood cells,en,True,science,"The ABO blood group system classifies blood into types A, B, AB, and O",science
+"The human nervous system consists of the brain, spinal cord, and nerves",en,True,science,The nervous system transmits electrical signals throughout the body,science
+Earth's atmosphere is primarily composed of nitrogen,en,True,science,Nitrogen makes up about 78 percent of Earth's atmosphere,science
+Oxygen makes up about 21 percent of Earth's atmosphere,en,True,science,Earth's atmosphere is roughly 78% nitrogen and 21% oxygen,science
+The Earth has a molten iron outer core,en,True,science,Earth's outer core is liquid iron and nickel surrounding a solid inner core,science
+Tectonic plates move at about 2 to 10 centimetres per year,en,True,science,Tectonic plate movement causes earthquakes and volcanic eruptions,science
+Earthquakes are caused by tectonic plate movement,en,True,science,Most earthquakes occur along fault lines where tectonic plates meet,science
+Volcanoes form where magma reaches Earth's surface,en,True,science,"Volcanic eruptions release lava, ash, and gases from Earth's interior",science
+Tsunamis are caused by underwater earthquakes or volcanic eruptions,en,True,science,Tsunamis are large ocean waves triggered by seafloor displacement,science
+Hurricanes form over warm ocean waters,en,True,science,Hurricanes need ocean surface temperatures of at least 26°C to form and sustain,science
+Tornadoes are rapidly rotating columns of air,en,True,science,Tornadoes form from powerful thunderstorms called supercells,science
+The greenhouse effect is caused by gases trapping heat in Earth's atmosphere,en,True,science,"CO2, methane, and water vapour are the main greenhouse gases",science
+Climate change is primarily caused by human greenhouse gas emissions,en,True,science,Burning fossil fuels has raised atmospheric CO2 from 280 to over 420 ppm since industrialisation,science
+Global average temperatures have risen about 1.1 degrees Celsius since pre-industrial times,en,True,science,The IPCC reports approximately 1.1°C of warming attributable to human activities,science
+The ozone layer is found in the stratosphere,en,True,science,The ozone layer sits about 15 to 35 km above Earth's surface,science
+Fossil fuels are formed from the remains of ancient organisms,en,True,science,"Coal, oil, and natural gas are fossil fuels formed over millions of years",science
+"Renewable energy sources include solar, wind, and hydroelectric power",en,True,science,Renewable energy comes from naturally replenishing sources,science
+Deforestation releases stored carbon contributing to climate change,en,True,science,Forests store large amounts of carbon released when trees are cut or burned,science
+The Amazon rainforest is sometimes called the lungs of the planet,en,True,science,The Amazon produces vast amounts of oxygen and absorbs CO2,science
+Acid rain is caused by SO2 and NOx emissions reacting with atmospheric water,en,True,science,"Acid rain can damage forests, lakes, and stone buildings",science
+"The water cycle involves evaporation, condensation, and precipitation",en,True,science,The hydrological cycle continuously moves water through Earth's systems,science
+"Soil is composed of minerals, organic matter, water, and air",en,True,science,Healthy topsoil takes hundreds of years to form and supports plant growth,science
+Biodiversity refers to the variety of life on Earth,en,True,science,"Biodiversity includes diversity of species, genes, and ecosystems",science
+Tropical rainforests have the highest biodiversity on Earth,en,True,science,Rainforests cover about 6% of land but hold more than half of all species,science
+Coral reefs support about 25 percent of all marine species,en,True,science,Coral reefs are among the most biodiverse marine ecosystems on Earth,science
+Polar ice caps store about 70 percent of Earth's fresh water,en,True,science,The Antarctic ice sheet contains about 26.5 million cubic kilometres of ice,science
+The food chain describes the flow of energy through an ecosystem,en,True,science,Only about 10 percent of energy is transferred from one trophic level to the next,science
+Decomposers break down dead organic matter recycling nutrients,en,True,science,Fungi and bacteria are the primary decomposers in most ecosystems,science
+The Moon orbits Earth approximately every 27.3 days,en,True,science,The Moon completes one sidereal orbit of Earth every 27.3 days,science
+The Sun is the closest star to Earth,en,True,science,The Sun is approximately 150 million km from Earth,science
+The Sun is a medium-sized star classified as a yellow dwarf,en,True,science,The Sun is a G-type main-sequence star with a surface temperature of about 5500°C,science
+Light from the Sun takes about 8 minutes to reach Earth,en,True,science,"At 150 million km distance, sunlight takes approximately 8.3 minutes to reach Earth",science
+The universe is estimated to be about 13.8 billion years old,en,True,science,This age is determined from measurements of the cosmic microwave background radiation,science
+The Big Bang theory describes the origin of the universe,en,True,science,The Big Bang occurred approximately 13.8 billion years ago,science
+The Milky Way is a barred spiral galaxy,en,True,science,The Milky Way has a central bar and spiral arms containing hundreds of billions of stars,science
+A black hole's gravity prevents even light from escaping,en,True,science,The escape velocity of a black hole exceeds the speed of light,science
+The first human Moon landing was in 1969,en,True,science,Apollo 11 landed on the Moon on July 20 1969 with Neil Armstrong and Buzz Aldrin,science
+The International Space Station orbits Earth at about 400 km altitude,en,True,science,The ISS travels at about 28000 km/h completing around 16 orbits per day,science
+The Hubble Space Telescope was launched in 1990,en,True,science,The Hubble orbits Earth at about 547 km providing clear images of distant objects,science
+Mars is called the Red Planet because of iron oxide on its surface,en,True,science,Mars appears red because its soil is rich in iron oxide or rust,science
+Jupiter is the largest planet in the solar system,en,True,science,Jupiter is more massive than all other planets in the solar system combined,science
+Saturn is famous for its prominent ring system,en,True,science,Saturn's rings are composed of ice and rock spanning hundreds of thousands of kilometres,science
+The solar system formed about 4.6 billion years ago,en,True,science,The solar system condensed from a collapsing cloud of gas and dust called a nebula,science
+The nearest star system to Earth is Alpha Centauri,en,True,science,Alpha Centauri is about 4.37 light-years from Earth,science
+A light-year is the distance light travels in one year,en,True,science,One light-year is approximately 9.46 trillion kilometres,science
+A lunar eclipse occurs when Earth's shadow falls on the Moon,en,True,science,Lunar eclipses happen only at full moon when Earth is between the Sun and Moon,science
+A solar eclipse occurs when the Moon's shadow falls on Earth,en,True,science,Solar eclipses happen when the Moon passes directly between the Sun and Earth,science
+Tides are caused mainly by the Moon's gravitational pull,en,True,science,The Moon's gravity creates tidal bulges on opposite sides of Earth,science
+The aurora borealis is caused by charged solar particles hitting Earth's atmosphere,en,True,science,Aurora displays occur near the poles where Earth's magnetic field funnels solar particles,science
+An asteroid is a small rocky body orbiting the Sun,en,True,science,Most asteroids are found in the asteroid belt between Mars and Jupiter,science
+A comet is a small icy body that releases gas when near the Sun,en,True,science,Comets develop a coma and tail of gas and dust as they approach the Sun,science
+Electrons have a negative electric charge,en,True,science,Electrons carry a charge of approximately -1.6×10⁻¹⁹ coulombs,science
+Protons have a positive electric charge,en,True,science,Protons in the atomic nucleus carry a charge equal and opposite to electrons,science
+Neutrons have no electric charge,en,True,science,Neutrons are neutral particles found in the atomic nucleus,science
+Quarks are the fundamental constituents of protons and neutrons,en,True,science,Protons and neutrons are each made up of three quarks,science
+Photons are particles of light with no mass,en,True,science,Photons carry the electromagnetic force and travel at the speed of light,science
+The Richter scale measures the magnitude of earthquakes,en,True,science,The Richter scale was developed by Charles Richter in 1935,science
+The human eye can distinguish approximately 10 million colours,en,True,science,The human eye has about 6 million cone cells responsible for colour vision,science
+The Nile is the longest river in the world,en,True,encyclopaedia,The Nile stretches approximately 6650 km through northeastern Africa,geography
+The Amazon is the largest river by water discharge,en,True,encyclopaedia,The Amazon discharges about 20 percent of all fresh water entering the world's oceans,geography
+Mount Everest is the highest mountain in the world,en,True,encyclopaedia,Mount Everest stands at 8848.86 metres above sea level in the Himalayas,geography
+The Pacific Ocean is the largest ocean in the world,en,True,encyclopaedia,The Pacific Ocean covers more than 165 million square kilometres,geography
+The Sahara is the largest hot desert in the world,en,True,encyclopaedia,The Sahara spans about 9.2 million square kilometres across North Africa,geography
+Russia is the largest country in the world by area,en,True,encyclopaedia,Russia covers approximately 17 million square kilometres,geography
+Canada is the second largest country in the world by area,en,True,encyclopaedia,Canada covers approximately 10 million square kilometres,geography
+Vatican City is the smallest country in the world,en,True,encyclopaedia,Vatican City covers only 0.44 square kilometres,geography
+The Caspian Sea is the largest lake in the world,en,True,encyclopaedia,The Caspian Sea covers about 371000 square kilometres,geography
+Lake Baikal is the world's deepest lake,en,True,encyclopaedia,Lake Baikal reaches a depth of 1642 metres in Siberia,geography
+The Dead Sea is the lowest point on Earth's land surface,en,True,encyclopaedia,The Dead Sea's surface is about 430 metres below sea level,geography
+The Mariana Trench is the deepest point in the ocean,en,True,encyclopaedia,The Mariana Trench reaches a depth of about 11000 metres in the Pacific Ocean,geography
+Asia is the largest continent by area,en,True,encyclopaedia,Asia covers approximately 44.58 million square kilometres,geography
+Africa is the second largest continent by area,en,True,encyclopaedia,Africa covers approximately 30.37 million square kilometres,geography
+Australia is the world's largest island continent,en,True,encyclopaedia,Australia is considered both a country and the world's smallest continent,geography
+Greenland is the world's largest island,en,True,encyclopaedia,Greenland covers about 2.166 million square kilometres,geography
+The Andes is the longest mountain range in the world,en,True,encyclopaedia,The Andes extends about 7000 km along South America's western coast,geography
+The Himalayas contain the world's highest peaks,en,True,encyclopaedia,The Himalayas span five countries and contain all fourteen 8000-metre peaks,geography
+The Great Barrier Reef is the world's largest coral reef system,en,True,encyclopaedia,The Great Barrier Reef stretches over 2300 kilometres off northeastern Australia,geography
+The Amazon rainforest is the world's largest tropical rainforest,en,True,encyclopaedia,The Amazon rainforest covers approximately 5.5 million square kilometres,geography
+The Suez Canal connects the Mediterranean Sea to the Red Sea,en,True,encyclopaedia,The Suez Canal was opened in 1869 and is 193 km long,geography
+The Panama Canal connects the Atlantic and Pacific Oceans,en,True,encyclopaedia,The Panama Canal was opened in 1914 through the Isthmus of Panama,geography
+Mount Kilimanjaro is the highest peak in Africa,en,True,encyclopaedia,Kilimanjaro stands at 5895 metres in Tanzania,geography
+The Volga is the longest river in Europe,en,True,encyclopaedia,The Volga stretches 3531 km across western Russia,geography
+The Yangtze is the longest river in Asia,en,True,encyclopaedia,The Yangtze River stretches 6300 km through China,geography
+The Congo River is the deepest river in the world,en,True,encyclopaedia,The Congo River reaches depths of over 230 metres,geography
+Lake Victoria is the largest lake in Africa,en,True,encyclopaedia,Lake Victoria covers 68870 square kilometres and borders three countries,geography
+Indonesia is the world's largest archipelago nation,en,True,encyclopaedia,Indonesia consists of over 17000 islands,geography
+Japan is an archipelago of over 6800 islands,en,True,encyclopaedia,"Japan's four main islands are Honshu, Hokkaido, Kyushu, and Shikoku",geography
+The Strait of Gibraltar connects the Atlantic Ocean to the Mediterranean Sea,en,True,encyclopaedia,The Strait of Gibraltar is about 14 km wide at its narrowest point,geography
+The Bosphorus Strait divides Istanbul between Europe and Asia,en,True,encyclopaedia,The Bosphorus connects the Black Sea to the Sea of Marmara,geography
+Hawaii is a US state located in the Pacific Ocean,en,True,encyclopaedia,Hawaii became the 50th US state in 1959,geography
+The Alps are the highest mountain range in Europe,en,True,encyclopaedia,The Alps stretch across eight European countries,geography
+The Atacama Desert is the driest non-polar desert on Earth,en,True,encyclopaedia,The Atacama in South America receives less than 1 mm of rain per year on average,geography
+Nigeria is the most populous country in Africa,en,True,encyclopaedia,Nigeria has a population of over 220 million people,geography
+China is the most populous country in the world,en,True,encyclopaedia,China has a population of over 1.4 billion people,geography
+India is the second most populous country in the world,en,True,encyclopaedia,India's population surpassed 1.4 billion and rivals China,geography
+The Ganges is the most sacred river in Hinduism,en,True,encyclopaedia,The Ganges flows through northern India for about 2525 km,geography
+The Mississippi River is the largest river system in North America,en,True,encyclopaedia,The Mississippi-Missouri system is about 5970 km long,geography
+Iceland is one of the most volcanically active regions on Earth,en,True,encyclopaedia,Iceland sits on the Mid-Atlantic Ridge making it highly volcanic,geography
+The Egyptian pyramids were built as tombs for pharaohs,en,True,encyclopaedia,The Great Pyramid of Giza was built for Pharaoh Khufu around 2560 BCE,history
+The Great Wall of China was built to protect against invasions,en,True,encyclopaedia,Construction of the Great Wall began as early as the 7th century BCE,history
+The Roman Empire was one of the largest empires in history,en,True,encyclopaedia,At its peak the Roman Empire covered about 5 million square kilometres,history
+Julius Caesar was a Roman general and statesman,en,True,encyclopaedia,"Caesar was assassinated on the Ides of March, March 15, 44 BCE",history
+"The ancient Olympics were held in Olympia, Greece",en,True,encyclopaedia,The ancient Olympic Games began in 776 BCE and were held every four years,history
+The Silk Road was an ancient trade route connecting China to Europe,en,True,encyclopaedia,"The Silk Road facilitated trade in silk, spices, and ideas for over 1500 years",history
+The Black Death killed about a third of Europe's population in the 14th century,en,True,encyclopaedia,The plague pandemic of 1347 to 1351 killed an estimated 75 to 200 million people,history
+The printing press was invented by Johannes Gutenberg around 1440,en,True,encyclopaedia,Gutenberg's printing press revolutionised the spread of knowledge in Europe,history
+The Renaissance was a cultural and intellectual movement in Europe,en,True,encyclopaedia,The Renaissance began in Italy in the 14th century and spread across Europe,history
+Leonardo da Vinci was a Renaissance artist and polymath,en,True,encyclopaedia,Da Vinci painted the Mona Lisa and The Last Supper,history
+Michelangelo painted the ceiling of the Sistine Chapel,en,True,encyclopaedia,Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512,history
+Christopher Columbus arrived in the Americas in 1492,en,True,encyclopaedia,Columbus landed in the Bahamas on October 12 1492 on his first voyage,history
+The Mughal Empire ruled much of the Indian subcontinent,en,True,encyclopaedia,The Mughal Empire was founded by Babur in 1526 and lasted until 1857,history
+The Taj Mahal was built by Mughal Emperor Shah Jahan,en,True,encyclopaedia,Shah Jahan built the Taj Mahal in Agra as a mausoleum for his wife Mumtaz Mahal,history
+The Magna Carta was signed in 1215 in England,en,True,encyclopaedia,The Magna Carta was a charter limiting the power of the English king,history
+The Byzantine Empire was the continuation of the Roman Empire in the East,en,True,encyclopaedia,The Byzantine Empire lasted from 330 CE until the fall of Constantinople in 1453,history
+Genghis Khan founded the Mongol Empire in the 13th century,en,True,encyclopaedia,The Mongol Empire became the largest contiguous land empire in history,history
+The Aztec Empire was a Mesoamerican civilisation in Mexico,en,True,encyclopaedia,The Aztec Empire was conquered by Spanish conquistador Hernán Cortés in 1521,history
+The Inca Empire was the largest empire in pre-Columbian America,en,True,encyclopaedia,The Inca Empire stretched along the western coast of South America,history
+The Crusades were a series of religious wars in the medieval period,en,True,encyclopaedia,The Crusades were launched by European Christians to reclaim the Holy Land,history
+The Industrial Revolution began in Britain in the 18th century,en,True,encyclopaedia,The Industrial Revolution transformed manufacturing through steam power and machinery,history
+The American Civil War was fought from 1861 to 1865,en,True,encyclopaedia,The Civil War was fought over slavery and states' rights in the United States,history
+The Eiffel Tower was built in 1889 in Paris,en,True,encyclopaedia,The Eiffel Tower was constructed as the entrance arch for the 1889 World's Fair,history
+The Titanic sank in the North Atlantic Ocean in 1912,en,True,encyclopaedia,The RMS Titanic sank on April 15 1912 after hitting an iceberg on its maiden voyage,history
+World War I was triggered by the assassination of Archduke Franz Ferdinand,en,True,encyclopaedia,Franz Ferdinand was assassinated in Sarajevo on June 28 1914,history
+The Russian Revolution occurred in 1917,en,True,encyclopaedia,The 1917 Russian Revolution overthrew the tsar and led to the founding of the Soviet Union,history
+The Great Depression began with the Wall Street Crash of 1929,en,True,encyclopaedia,The stock market crash of October 1929 triggered the worst economic depression of the 20th century,history
+Adolf Hitler and the Nazi Party rose to power in Germany in 1933,en,True,encyclopaedia,Hitler was appointed Chancellor of Germany on January 30 1933,history
+The Holocaust was the genocide of six million Jews by Nazi Germany,en,True,encyclopaedia,The Holocaust was carried out systematically by the Nazi regime between 1941 and 1945,history
+The atomic bombs were dropped on Hiroshima and Nagasaki in 1945,en,True,encyclopaedia,The US dropped atomic bombs on Hiroshima on August 6 and Nagasaki on August 9 1945,history
+The United Nations was founded in 1945 after World War II,en,True,encyclopaedia,The UN was established on October 24 1945 to maintain international peace,history
+The Korean War was fought from 1950 to 1953,en,True,encyclopaedia,The Korean War ended in an armistice with Korea remaining divided at the 38th parallel,history
+The Vietnam War ended in 1975 with the fall of Saigon,en,True,encyclopaedia,North Vietnamese forces captured Saigon on April 30 1975,history
+The Moon landing in 1969 was the first time humans set foot on the Moon,en,True,encyclopaedia,Neil Armstrong became the first human to walk on the Moon on July 20 1969,history
+The Internet was developed from ARPANET in the late 20th century,en,True,encyclopaedia,"ARPANET, the precursor to the Internet, was launched in 1969",history
+The fall of the Berlin Wall in 1989 marked the end of the Cold War,en,True,encyclopaedia,The Berlin Wall fell on November 9 1989 ending the division of Germany,history
+The September 11 attacks occurred in the United States in 2001,en,True,encyclopaedia,Al-Qaeda carried out coordinated terrorist attacks on September 11 2001 killing nearly 3000 people,history
+The COVID-19 pandemic began in late 2019,en,True,encyclopaedia,"COVID-19 was caused by the SARS-CoV-2 virus first identified in Wuhan, China",history
+The first iPhone was released by Apple in 2007,en,True,encyclopaedia,Steve Jobs unveiled the first iPhone on January 9 2007,history
+Nelson Mandela was released from prison in 1990 after 27 years,en,True,encyclopaedia,Mandela was imprisoned in 1964 and released on February 11 1990,history
+The FIFA World Cup is held every four years,en,True,encyclopaedia,The FIFA World Cup is the most watched sporting event in the world,sports
+Brazil has won the FIFA World Cup the most times,en,True,encyclopaedia,"Brazil has won the FIFA World Cup five times in 1958, 1962, 1970, 1994, and 2002",sports
+The Olympic Games are held every four years,en,True,encyclopaedia,The modern Olympics were revived in Athens in 1896,sports
+Cricket is the most popular sport in India,en,True,encyclopaedia,India has a massive cricket following and a strong national team,sports
+Sachin Tendulkar is the highest run-scorer in international cricket,en,True,encyclopaedia,Tendulkar scored 15921 runs in Test cricket and 18426 runs in ODIs,sports
+India won the Cricket World Cup in 1983 and 2011,en,True,encyclopaedia,India won under Kapil Dev in 1983 and under MS Dhoni in 2011,sports
+The Ashes is a cricket series played between England and Australia,en,True,encyclopaedia,The Ashes has been contested since 1882 and is one of cricket's oldest rivalries,sports
+Usain Bolt holds the world record for the 100 metres sprint,en,True,encyclopaedia,Bolt set the 100m world record of 9.58 seconds at the 2009 Berlin World Championships,sports
+"Roger Federer, Rafael Nadal, and Novak Djokovic dominated tennis for two decades",en,True,encyclopaedia,"Federer, Nadal, and Djokovic have collectively won the majority of Grand Slam titles in the 21st century",sports
+Rafael Nadal has won the most French Open titles,en,True,encyclopaedia,Nadal won the French Open 14 times making him the most successful player at Roland Garros,sports
+The FIFA World Cup 2022 was held in Qatar,en,True,encyclopaedia,Qatar hosted the 2022 FIFA World Cup making it the first Middle Eastern country to do so,sports
+Argentina won the FIFA World Cup 2022,en,True,encyclopaedia,Argentina defeated France in the 2022 World Cup final in a penalty shootout,sports
+Lionel Messi has won the most Ballon d'Or awards,en,True,encyclopaedia,Messi has won eight Ballon d'Or awards as of 2023,sports
+The Boston Marathon is one of the world's oldest annual marathons,en,True,encyclopaedia,The Boston Marathon has been held since 1897,sports
+Muhammad Ali was known as The Greatest in boxing,en,True,encyclopaedia,Ali is widely regarded as the greatest heavyweight boxer of all time,sports
+India has won eight Olympic gold medals in field hockey,en,True,encyclopaedia,India dominated Olympic field hockey from 1928 to 1980,sports
+The Premier League is England's top professional football division,en,True,encyclopaedia,The Premier League was founded in 1992 and is one of the most watched sports leagues in the world,sports
+The Super Bowl is the championship game of the NFL,en,True,encyclopaedia,The Super Bowl is the most watched television event in the United States each year,sports
+The NBA is the premier professional basketball league in the world,en,True,encyclopaedia,The National Basketball Association was founded in 1946,sports
+Michael Jordan is widely regarded as the greatest basketball player of all time,en,True,encyclopaedia,Jordan won six NBA championships with the Chicago Bulls,sports
+The Tour de France is the world's most prestigious cycling race,en,True,encyclopaedia,The Tour de France has been held annually since 1903 covering approximately 3500 km,sports
+The Wimbledon Championships is the oldest tennis tournament in the world,en,True,encyclopaedia,Wimbledon has been held at the All England Club since 1877,sports
+The Indian Premier League is a professional T20 cricket league,en,True,encyclopaedia,The IPL was founded in 2008 by the Board of Control for Cricket in India,sports
+Neeraj Chopra won India's first Olympic gold in athletics in 2020,en,True,encyclopaedia,Chopra won the javelin throw gold at the Tokyo 2020 Olympics,sports
+Abhinav Bindra was India's first individual Olympic gold medalist,en,True,encyclopaedia,Bindra won the 10m air rifle gold at the 2008 Beijing Olympics,sports
+The World Wide Web was invented by Tim Berners-Lee in 1989,en,True,encyclopaedia,Berners-Lee proposed the web as an information management system at CERN,technology
+The first commercial smartphone was the IBM Simon released in 1994,en,True,encyclopaedia,The IBM Simon had a touchscreen and could send emails and faxes,technology
+Google was founded in 1998 by Larry Page and Sergey Brin,en,True,encyclopaedia,Google was incorporated as a company on September 4 1998,technology
+"Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne",en,True,encyclopaedia,Apple was incorporated on January 3 1977,technology
+Microsoft was founded in 1975 by Bill Gates and Paul Allen,en,True,encyclopaedia,"Microsoft was founded on April 4 1975 in Albuquerque, New Mexico",technology
+Facebook was founded by Mark Zuckerberg in 2004,en,True,encyclopaedia,Facebook was launched from Harvard University on February 4 2004,technology
+Amazon was founded by Jeff Bezos in 1994,en,True,encyclopaedia,Amazon was founded on July 5 1994 and originally sold books online,technology
+The first commercial email was sent in 1971,en,True,encyclopaedia,Ray Tomlinson sent the first network email in 1971 using the @ symbol,technology
+The transistor was invented in 1947 at Bell Labs,en,True,encyclopaedia,"The transistor was invented by John Bardeen, Walter Brattain, and William Shockley",technology
+The first computer virus was created in 1971,en,True,encyclopaedia,The Creeper program is considered the first computer virus,technology
+Artificial intelligence was coined as a term in 1956,en,True,encyclopaedia,John McCarthy coined the term artificial intelligence at the Dartmouth Conference in 1956,technology
+GPS was originally developed for military use by the United States,en,True,encyclopaedia,The Global Positioning System became fully operational in 1995,technology
+The first commercial television broadcast was in the 1920s,en,True,encyclopaedia,John Logie Baird demonstrated the first working television system in 1926,technology
+The telephone was invented by Alexander Graham Bell in 1876,en,True,encyclopaedia,Bell made the first successful telephone call on March 10 1876,technology
+The light bulb was invented by Thomas Edison in 1879,en,True,encyclopaedia,Edison demonstrated his incandescent light bulb on October 22 1879,technology
+The Wright brothers made the first powered aeroplane flight in 1903,en,True,encyclopaedia,"Orville and Wilbur Wright flew at Kitty Hawk, North Carolina on December 17 1903",technology
+The first electronic computer ENIAC was built in 1945,en,True,encyclopaedia,ENIAC was built at the University of Pennsylvania and weighed about 30 tonnes,technology
+The Internet uses the TCP/IP protocol to transmit data,en,True,encyclopaedia,TCP/IP was developed in the 1970s and became the standard for internet communication,technology
+Blockchain technology underpins cryptocurrencies like Bitcoin,en,True,encyclopaedia,Bitcoin was created in 2009 by the pseudonymous Satoshi Nakamoto,technology
+Electric vehicles use rechargeable batteries as their primary power source,en,True,encyclopaedia,Modern electric vehicles use lithium-ion batteries for energy storage,technology
+GDP stands for Gross Domestic Product,en,True,encyclopaedia,GDP measures the total monetary value of goods and services produced in a country,economics
+The United States has the largest economy in the world by nominal GDP,en,True,encyclopaedia,The US GDP is over 25 trillion dollars making it the world's largest economy,economics
+China has the second largest economy in the world by nominal GDP,en,True,encyclopaedia,China's GDP exceeded 17 trillion dollars as of 2022,economics
+Inflation is the rate at which the general price level of goods rises,en,True,encyclopaedia,Inflation erodes purchasing power over time,economics
+The stock market allows companies to raise capital by selling shares,en,True,encyclopaedia,Investors buy shares hoping to profit from company growth and dividends,economics
+The World Bank and IMF were established at the Bretton Woods Conference in 1944,en,True,encyclopaedia,The Bretton Woods system created a framework for international monetary cooperation,economics
+Interest rates set by central banks influence borrowing costs,en,True,encyclopaedia,When central banks raise interest rates borrowing becomes more expensive slowing inflation,economics
+The New York Stock Exchange is the largest stock exchange in the world,en,True,encyclopaedia,The NYSE is located on Wall Street in New York City,economics
+Bitcoin was the first decentralised cryptocurrency,en,True,encyclopaedia,Bitcoin was created in 2009 and operates without a central authority,economics
+India's economy is the fifth largest in the world by nominal GDP,en,True,encyclopaedia,India's GDP surpassed that of the UK making it the fifth largest economy,economics
+The Reserve Bank of India controls monetary policy in India,en,True,encyclopaedia,The RBI sets interest rates and regulates India's banking system,economics
+Free trade agreements reduce tariffs between member countries,en,True,encyclopaedia,Free trade agreements aim to increase trade and economic cooperation,economics
+Supply and demand determine prices in a free market economy,en,True,encyclopaedia,"When demand exceeds supply prices rise, and when supply exceeds demand prices fall",economics
+The Great Depression was the worst global economic downturn of the 20th century,en,True,encyclopaedia,Unemployment in the US reached 25 percent during the Great Depression,economics
+The 2008 financial crisis was triggered by the collapse of the US housing market,en,True,encyclopaedia,The 2008 crisis led to global recession and bank bailouts in many countries,economics
+William Shakespeare is considered the greatest writer in the English language,en,True,encyclopaedia,Shakespeare wrote 37 plays and 154 sonnets between 1590 and 1613,culture
+The Mona Lisa was painted by Leonardo da Vinci,en,True,encyclopaedia,The Mona Lisa is housed in the Louvre Museum in Paris,culture
+"The Eiffel Tower is a landmark in Paris, France",en,True,encyclopaedia,The Eiffel Tower was designed by Gustave Eiffel and completed in 1889,culture
+"The Colosseum is an ancient amphitheatre in Rome, Italy",en,True,encyclopaedia,The Colosseum was completed in 80 CE and could seat up to 80000 spectators,culture
+Rabindranath Tagore was the first non-European to win the Nobel Prize in Literature,en,True,encyclopaedia,Tagore won the Nobel Prize in Literature in 1913 for Gitanjali,culture
+The Ramayana and Mahabharata are ancient Indian epics,en,True,encyclopaedia,The Ramayana was composed by Valmiki and the Mahabharata by Vyasa,culture
+The Bhagavad Gita is a sacred Hindu scripture,en,True,encyclopaedia,The Bhagavad Gita is part of the Mahabharata and contains a dialogue between Krishna and Arjuna,culture
+Yoga originated in ancient India,en,True,encyclopaedia,Yoga has been practised in India for over 5000 years,culture
+The Louvre in Paris is the world's most visited art museum,en,True,encyclopaedia,The Louvre receives about 9 million visitors per year,culture
+The Taj Mahal is a UNESCO World Heritage Site in India,en,True,encyclopaedia,The Taj Mahal in Agra was built between 1632 and 1653,culture
+Bollywood is the Hindi-language film industry based in Mumbai,en,True,encyclopaedia,Bollywood is one of the largest film industries in the world by number of films produced,culture
+The Bible is the most widely distributed book in the world,en,True,encyclopaedia,The Bible has been translated into over 700 languages,culture
+Homer is the ancient Greek poet credited with writing the Iliad and the Odyssey,en,True,encyclopaedia,The Iliad and the Odyssey are foundational works of ancient Greek literature,culture
+The Harry Potter series was written by J K Rowling,en,True,encyclopaedia,The first Harry Potter book was published in 1997 and the series has sold over 500 million copies,culture
+Jazz music originated in New Orleans in the early 20th century,en,True,encyclopaedia,Jazz blends African American musical traditions with European harmonic structures,culture
+The Beatles were one of the most influential bands in music history,en,True,encyclopaedia,The Beatles from Liverpool became globally famous in the 1960s,culture
+Diwali is the Hindu festival of lights,en,True,encyclopaedia,"Diwali is celebrated by Hindus, Sikhs, and Jains and symbolises the triumph of light over darkness",culture
+Eid al-Fitr marks the end of Ramadan in Islam,en,True,encyclopaedia,Eid al-Fitr is celebrated by Muslims worldwide after a month of fasting,culture
+Christmas is celebrated on December 25 by Christians worldwide,en,True,encyclopaedia,Christmas commemorates the birth of Jesus Christ,culture
+"The Olympic motto is Faster, Higher, Stronger",en,True,encyclopaedia,The Olympic motto Citius Altius Fortius was adopted by the IOC in 1894,culture
+"The human body has four blood types: A, B, AB, and O",en,True,encyclopaedia,The ABO blood group system was discovered by Karl Landsteiner in 1901,health
+Diabetes is a condition where the body cannot properly regulate blood sugar,en,True,encyclopaedia,Type 1 diabetes involves no insulin production; Type 2 involves insulin resistance,health
+Hypertension is another name for high blood pressure,en,True,encyclopaedia,Hypertension is a major risk factor for heart disease and stroke,health
+The human brain has about 86 billion neurons,en,True,encyclopaedia,Neurons transmit electrical signals forming the basis of thought and movement,health
+Malaria is caused by a parasite transmitted by Anopheles mosquitoes,en,True,encyclopaedia,Malaria kills hundreds of thousands of people every year mostly in sub-Saharan Africa,health
+Tuberculosis is a bacterial infection that mainly affects the lungs,en,True,encyclopaedia,TB is caused by Mycobacterium tuberculosis and is one of the leading infectious killers globally,health
+HIV attacks the immune system and can lead to AIDS,en,True,encyclopaedia,HIV stands for Human Immunodeficiency Virus and AIDS for Acquired Immunodeficiency Syndrome,health
+Cancer is caused by uncontrolled cell division,en,True,encyclopaedia,There are over 100 types of cancer affecting different parts of the body,health
+The WHO declared COVID-19 a pandemic in March 2020,en,True,encyclopaedia,The COVID-19 pandemic caused by SARS-CoV-2 led to millions of deaths worldwide,health
+Vaccines have eradicated smallpox globally,en,True,encyclopaedia,Smallpox was declared eradicated by the WHO in 1980 after a global vaccination campaign,health
+Penicillin was the world's first antibiotic,en,True,encyclopaedia,Penicillin discovered by Fleming in 1928 revolutionised treatment of bacterial infections,health
+The heart pumps blood throughout the body via arteries and veins,en,True,encyclopaedia,Arteries carry oxygenated blood away from the heart and veins return deoxygenated blood,health
+"A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals",en,True,encyclopaedia,Each macronutrient and micronutrient plays a specific role in maintaining health,health
+"Regular exercise reduces the risk of heart disease, diabetes, and obesity",en,True,encyclopaedia,The WHO recommends at least 150 minutes of moderate aerobic activity per week for adults,health
+Mental health is as important as physical health,en,True,encyclopaedia,Mental health conditions affect hundreds of millions of people worldwide,health
+Dehydration occurs when the body loses more water than it takes in,en,True,encyclopaedia,"Mild dehydration can cause headaches, fatigue, and reduced concentration",health
+Smoking is the leading cause of preventable death worldwide,en,True,encyclopaedia,Tobacco use kills over 8 million people each year according to the WHO,health
+Hand washing with soap is one of the most effective ways to prevent disease,en,True,encyclopaedia,Regular hand washing reduces the spread of gastrointestinal and respiratory infections,health
+The human body is made up of about 37 trillion cells,en,True,encyclopaedia,Each cell performs specific functions to keep the body alive and functioning,health
+The immune system produces antibodies to fight infections,en,True,encyclopaedia,Antibodies are proteins that recognise and neutralise pathogens such as viruses and bacteria,health
+The Great Wall of China is visible from space is a myth,en,False,encyclopaedia,The Great Wall is too narrow to be seen from space with the naked eye,general
+The Seven Wonders of the Ancient World included the Great Pyramid of Giza,en,True,encyclopaedia,The Great Pyramid of Giza is the only ancient wonder still largely intact,general
+Honey never spoils and edible honey has been found in ancient Egyptian tombs,en,True,encyclopaedia,Honey's low moisture and acidic pH prevent bacterial growth indefinitely,general
+Fingerprints are unique to each individual,en,True,encyclopaedia,No two people have identical fingerprints making them useful for identification,general
+The human body replaces most of its cells every seven to ten years,en,True,encyclopaedia,Different cells are replaced at different rates with some neurons lasting a lifetime,general
+Antarctica is the only continent with no permanent human residents,en,True,encyclopaedia,Antarctica is governed by the Antarctic Treaty and has no indigenous population,general
+The Eiffel Tower grows about 15 cm taller in summer due to thermal expansion,en,True,encyclopaedia,Metal expands in heat causing the Eiffel Tower to grow slightly in warm weather,general
+Sanskrit is one of the oldest known languages in the world,en,True,encyclopaedia,Sanskrit is an ancient Indo-European language and the liturgical language of Hinduism,general
+The number pi is approximately 3.14159,en,True,encyclopaedia,Pi is the ratio of a circle's circumference to its diameter and is an irrational number,general
+A dozen refers to a group of twelve,en,True,encyclopaedia,The word dozen comes from the Old French word douzaine meaning a group of twelve,general
+"There are 24 hours in a day, 60 minutes in an hour, and 60 seconds in a minute",en,True,encyclopaedia,This timekeeping system originated with ancient Babylonian mathematics,general
+The speed of Earth's rotation at the equator is about 1670 km per hour,en,True,encyclopaedia,Earth rotates on its axis once every 24 hours,general
+The human body is about 60 percent water,en,True,encyclopaedia,"Water content in the body varies by age, sex, and hydration level",general
+Bees are essential pollinators for global food production,en,True,encyclopaedia,Bees pollinate about one third of the food humans consume,general
+The cheetah is the fastest land animal reaching speeds of up to 120 km per hour,en,True,encyclopaedia,Cheetahs can accelerate from 0 to 100 km/h in about three seconds,general
+Elephants are the largest land animals on Earth,en,True,encyclopaedia,African bush elephants can weigh up to 6000 kg,general
+Blue whales are the largest animals ever known to have lived,en,True,encyclopaedia,Blue whales can reach lengths of up to 30 metres and weigh up to 180 tonnes,general
+Octopuses have three hearts and blue blood,en,True,encyclopaedia,Octopus blood contains haemocyanin which is copper-based and appears blue,general
+The Great Barrier Reef is the world's largest living structure,en,True,encyclopaedia,The Great Barrier Reef is large enough to be seen from outer space,general
+Humans share about 98 percent of their DNA with chimpanzees,en,True,encyclopaedia,Chimpanzees are humans' closest living relatives,general
+Chess originated in India around the 6th century CE,en,True,encyclopaedia,The game of chess spread from India to Persia and then to the Islamic world and Europe,general
+Zero was invented in India and is a fundamental concept in mathematics,en,True,encyclopaedia,Indian mathematician Brahmagupta formalized the concept of zero in 628 CE,general
+The decimal number system was developed in ancient India,en,True,encyclopaedia,The Hindu-Arabic numeral system including digits 0 to 9 originated in India,general
+Mount Everest is located on the border of Nepal and Tibet,en,True,encyclopaedia,Everest sits on the Nepal-Tibet border in the Himalayas,general
+The human stomach produces a new lining every three to four days,en,True,encyclopaedia,Stomach cells are replaced frequently to withstand the corrosive gastric acid,general
+Gold is highly resistant to corrosion and tarnishing,en,True,encyclopaedia,Gold does not react with most chemicals making it durable over thousands of years,general
+The Sahara Desert experiences both extreme heat and cold temperatures,en,True,encyclopaedia,Saharan temperatures can exceed 50°C in summer and drop below freezing at night in winter,general
+Light from distant stars may have taken thousands of years to reach Earth,en,True,encyclopaedia,When we observe distant stars we are seeing light that left them long ago,general
+The Great Indian Bustard is one of the most endangered birds in India,en,True,encyclopaedia,The Great Indian Bustard population has fallen to fewer than 200 individuals,general
+India has the largest number of vegetarians in the world,en,True,encyclopaedia,Approximately 40 percent of India's population follows a vegetarian diet,general
+India is the world's largest producer of milk,en,True,encyclopaedia,India produces over 200 million tonnes of milk per year making it the top producer globally,general
+The Indo-Gangetic Plain is one of the most fertile agricultural regions in the world,en,True,encyclopaedia,The plain covers most of northern India and supports a large share of India's food production,general
+India has the third largest road network in the world,en,True,encyclopaedia,India has over 6 million km of roads including national highways and rural roads,general
+India is the world's largest exporter of spices,en,True,encyclopaedia,India accounts for about 75 percent of global spice production,general
+The Indus Valley Civilisation is one of the world's earliest urban civilisations,en,True,encyclopaedia,The Indus Valley Civilisation flourished around 3300 to 1300 BCE in present-day Pakistan and India,general
+Ayurveda is an ancient Indian system of medicine,en,True,encyclopaedia,Ayurveda has been practised in India for over 3000 years,general
+India has the highest number of engineering graduates in the world,en,True,encyclopaedia,India produces about 1.5 million engineering graduates every year,general
+The Sun accounts for about 99.86 percent of the total mass of the solar system,en,True,encyclopaedia,The Sun's enormous mass creates the gravity that holds the solar system together,general
+Water covers about 71 percent of Earth's surface,en,True,encyclopaedia,Oceans hold about 96.5 percent of all Earth's water,general
+"The Mediterranean Sea is bordered by Europe, Africa, and Asia",en,True,encyclopaedia,The Mediterranean Sea covers about 2.5 million square kilometres,geography
+The Red Sea separates Africa from the Arabian Peninsula,en,True,encyclopaedia,The Red Sea connects to the Indian Ocean through the Gulf of Aden,geography
+The Black Sea is connected to the Mediterranean via the Bosphorus,en,True,encyclopaedia,"The Black Sea borders six countries including Russia, Turkey, and Ukraine",geography
+The Amazon River flows into the Atlantic Ocean,en,True,encyclopaedia,The Amazon empties into the Atlantic on Brazil's northern coast,geography
+The Gobi Desert is the largest desert in Asia,en,True,encyclopaedia,The Gobi spans parts of northern China and southern Mongolia,geography
+New Zealand consists of two main islands in the Pacific Ocean,en,True,encyclopaedia,New Zealand's North Island and South Island are its two main landmasses,geography
+The Arabian Peninsula is the world's largest peninsula,en,True,encyclopaedia,The Arabian Peninsula covers about 3.2 million square kilometres,geography
+The Alps stretch across eight European countries,en,True,encyclopaedia,The Alps are the highest mountain range in Western Europe,geography
+Lake Superior is the largest freshwater lake by surface area,en,True,encyclopaedia,Lake Superior covers 82103 square kilometres on the US-Canada border,geography
+The Mekong River flows through six countries in Southeast Asia,en,True,encyclopaedia,"The Mekong flows through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam",geography
+The Philippines consists of over 7000 islands,en,True,encyclopaedia,The Philippines is an archipelago in Southeast Asia with 7641 islands,geography
+Iceland sits on the Mid-Atlantic Ridge,en,True,encyclopaedia,Iceland's volcanic activity is due to its location on the boundary of two tectonic plates,geography
+Antarctica is the coldest and windiest continent on Earth,en,True,encyclopaedia,Temperatures in Antarctica can drop below -80 degrees Celsius,geography
+The Tropic of Cancer passes through India,en,True,encyclopaedia,The Tropic of Cancer at 23.5 degrees north latitude passes through several Indian states,geography
+The Equator passes through 13 countries,en,True,encyclopaedia,"Countries on the Equator include Brazil, Ecuador, Kenya, and Indonesia",geography
+The printing press enabled the Protestant Reformation,en,True,encyclopaedia,Gutenberg's press allowed Martin Luther's writings to spread rapidly across Europe,history
+The Boston Tea Party of 1773 was a protest against British taxation,en,True,encyclopaedia,American colonists dumped British tea into Boston Harbour to protest taxation without representation,history
+The Battle of Waterloo in 1815 ended Napoleon's rule,en,True,encyclopaedia,Napoleon was defeated at Waterloo and exiled to Saint Helena,history
+The Treaty of Versailles ended World War I in 1919,en,True,encyclopaedia,The Treaty of Versailles imposed heavy reparations on Germany,history
+The Nuremberg Trials prosecuted Nazi war criminals after World War II,en,True,encyclopaedia,The Nuremberg Trials were the first international military tribunals held from 1945 to 1946,history
+Mahatma Gandhi was assassinated in 1948,en,True,encyclopaedia,Gandhi was shot by Nathuram Godse on January 30 1948 in New Delhi,history
+The Cuban Missile Crisis of 1962 brought the US and USSR close to nuclear war,en,True,encyclopaedia,The 13-day standoff ended when the USSR agreed to remove missiles from Cuba,history
+The Indian Emergency lasted from 1975 to 1977,en,True,encyclopaedia,Prime Minister Indira Gandhi declared a state of emergency suspending civil liberties,history
+The Partition of Bengal in 1905 triggered a major independence movement,en,True,encyclopaedia,Lord Curzon's partition of Bengal was reversed in 1911 due to mass protests,history
+The first Indian War of Independence occurred in 1857,en,True,encyclopaedia,The 1857 uprising against British rule is also called the Sepoy Mutiny,history
+The human body has approximately 600 muscles,en,True,science,Muscles make up about 40 percent of the human body's total weight,science
+The average human adult has about 5 litres of blood,en,True,science,Blood makes up about 7 to 8 percent of the human body's total weight,science
+The eye's retina contains about 120 million rod cells,en,True,science,Rod cells are responsible for vision in low-light conditions,science
+The human ear can detect frequencies from about 20 Hz to 20000 Hz,en,True,science,Hearing range decreases with age especially at higher frequencies,science
+Oxygen was discovered independently by Carl Wilhelm Scheele and Joseph Priestley,en,True,science,Priestley published his findings in 1774 describing a gas that supported combustion,science
+Gravity holds planets in orbit around the Sun,en,True,science,The Sun's gravity keeps all planets in the solar system on their orbital paths,science
+The Earth's rotation causes day and night,en,True,science,One full rotation of Earth on its axis takes approximately 24 hours,science
+The equinox occurs twice a year when day and night are equal length,en,True,science,The spring and autumn equinoxes occur around March 20 and September 23 each year,science
+The solstice marks the longest and shortest days of the year,en,True,science,The summer solstice has the longest day and the winter solstice has the shortest,science
+The human skeleton supports the body and protects internal organs,en,True,science,Bones also produce blood cells in the bone marrow,science
+The ICC Cricket World Cup is held every four years,en,True,encyclopaedia,The first Cricket World Cup was held in England in 1975,sports
+Virat Kohli is one of the greatest batsmen in cricket history,en,True,encyclopaedia,Kohli has scored over 25000 international runs across all formats,sports
+MS Dhoni led India to the 2011 Cricket World Cup victory,en,True,encyclopaedia,Dhoni's iconic six in the final sealed India's World Cup win on April 2 2011,sports
+The Davis Cup is the premier international team event in men's tennis,en,True,encyclopaedia,The Davis Cup has been played since 1900,sports
+The FIFA World Cup trophy is made of gold,en,True,encyclopaedia,The current FIFA World Cup trophy is made of 18-carat gold and weighs 6.175 kg,sports
+Chess was recognised as a sport by the International Olympic Committee in 1999,en,True,encyclopaedia,Chess is governed internationally by FIDE the World Chess Federation,sports
+The 2020 Tokyo Olympics were held in 2021 due to the COVID-19 pandemic,en,True,encyclopaedia,The Tokyo Olympics were postponed from 2020 and held from July 23 to August 8 2021,sports
+India won the ICC T20 World Cup in 2007 and 2024,en,True,encyclopaedia,India won the inaugural T20 World Cup in 2007 under MS Dhoni's captaincy,sports
+PV Sindhu won India's first Olympic silver in badminton in 2016,en,True,encyclopaedia,Sindhu became the first Indian woman to win an Olympic silver medal at Rio 2016,sports
+Sania Mirza is India's most successful female tennis player,en,True,encyclopaedia,Mirza won six Grand Slam doubles titles during her career,sports
+The first programmable computer Colossus was built in 1943,en,True,encyclopaedia,Colossus was built at Bletchley Park to decode Nazi messages during World War II,technology
+Moore's Law states that the number of transistors on a chip doubles roughly every two years,en,True,encyclopaedia,Gordon Moore made this observation in 1965 and it has largely held true for decades,technology
+5G is the fifth generation of mobile network technology,en,True,encyclopaedia,5G networks offer significantly faster speeds and lower latency than 4G,technology
+The first text message was sent in 1992,en,True,encyclopaedia,Neil Papworth sent the first SMS on December 3 1992 reading Merry Christmas,technology
+Cloud computing allows data to be stored and accessed over the internet,en,True,encyclopaedia,"Cloud computing services are provided by companies like Amazon AWS, Google Cloud, and Microsoft Azure",technology
+Artificial intelligence can now defeat world champions at chess and Go,en,True,encyclopaedia,DeepMind's AlphaGo defeated world Go champion Lee Sedol in 2016,technology
+The Linux operating system is open-source software,en,True,encyclopaedia,Linux was created by Linus Torvalds in 1991 and powers much of the internet,technology
+The USB standard was introduced in 1996,en,True,encyclopaedia,USB or Universal Serial Bus was designed to standardise connections between computers and peripherals,technology
+"Satellites are used for communication, navigation, and weather forecasting",en,True,encyclopaedia,The first artificial satellite Sputnik was launched by the USSR in 1957,technology
+The first commercial jet airliner was the de Havilland Comet introduced in 1952,en,True,encyclopaedia,The Comet revolutionised air travel by dramatically reducing flight times,technology
+The United Arab Emirates is the world's largest exporter of oil per capita,en,True,encyclopaedia,The UAE is a major petroleum exporter and home to sovereign wealth funds,economics
+India's IT and software industry is a major contributor to its GDP,en,True,encyclopaedia,India's IT sector generates over 190 billion dollars in revenue and employs millions,economics
+Foreign direct investment brings capital and expertise to host countries,en,True,encyclopaedia,FDI is a key driver of economic growth in developing nations,economics
+"The Human Development Index measures health, education, and living standards",en,True,encyclopaedia,The HDI was developed by the UNDP and published in annual Human Development Reports,economics
+Microfinance provides small loans to people who lack access to banking,en,True,encyclopaedia,Muhammad Yunus pioneered microfinance through Grameen Bank in Bangladesh,economics
+The Kumbh Mela is the largest religious gathering on Earth,en,True,encyclopaedia,The Kumbh Mela is held in India every 12 years and draws tens of millions of pilgrims,culture
+Holi is the Hindu festival of colours celebrated in spring,en,True,encyclopaedia,Holi marks the arrival of spring and the victory of good over evil,culture
+The Ajanta and Ellora Caves are UNESCO World Heritage Sites in India,en,True,encyclopaedia,The Ajanta Caves contain ancient Buddhist paintings dating back to the 2nd century BCE,culture
+Classical Indian music has two main traditions: Hindustani and Carnatic,en,True,encyclopaedia,Hindustani music is practised in northern India and Carnatic in southern India,culture
+"Bharatanatyam is a classical dance form from Tamil Nadu, India",en,True,encyclopaedia,Bharatanatyam is one of the oldest classical dance traditions in India,culture
+The Colosseum in Rome could seat between 50000 and 80000 spectators,en,True,encyclopaedia,The Colosseum was used for gladiatorial contests and public spectacles,culture
+Pablo Picasso co-founded the Cubist movement in art,en,True,encyclopaedia,Picasso and Georges Braque developed Cubism around 1907,culture
+"The Nobel Prizes are awarded annually in Physics, Chemistry, Medicine, Literature, and Peace",en,True,encyclopaedia,The Nobel Prizes were established by the will of Alfred Nobel and first awarded in 1901,culture
+Mother Teresa worked with the poor in Kolkata and won the Nobel Peace Prize in 1979,en,True,encyclopaedia,Mother Teresa founded the Missionaries of Charity in 1950 in Kolkata,culture
+Rabindranath Tagore founded Visva-Bharati University in Santiniketan,en,True,encyclopaedia,Tagore established the university in 1921 blending Indian and Western learning,culture
+The average adult needs 7 to 9 hours of sleep per night,en,True,encyclopaedia,"Chronic sleep deprivation increases the risk of obesity, diabetes, and heart disease",health
+Vitamin D is produced by the skin when exposed to sunlight,en,True,encyclopaedia,Vitamin D deficiency can lead to weakened bones and immune problems,health
+Blood pressure is measured in millimetres of mercury mmHg,en,True,encyclopaedia,Normal blood pressure for adults is below 120/80 mmHg,health
+"The World Health Organization defines health as a state of complete physical, mental, and social well-being",en,True,encyclopaedia,This definition was established in the WHO Constitution of 1948,health
+"Obesity is a major risk factor for type 2 diabetes, heart disease, and certain cancers",en,True,encyclopaedia,Global obesity rates have tripled since 1975 according to the WHO,health
+Oral rehydration therapy saves millions of lives from diarrhoeal disease,en,True,encyclopaedia,"ORT using water, salt, and sugar was one of the most important medical advances of the 20th century",health
+The human heart is about the size of a fist,en,True,encyclopaedia,The adult human heart weighs between 250 and 350 grams,health
+Sunscreen helps prevent skin cancer by blocking UV radiation,en,True,encyclopaedia,Prolonged exposure to UV radiation increases the risk of melanoma and other skin cancers,health
+Alzheimer's disease is the most common form of dementia,en,True,encyclopaedia,"Alzheimer's affects memory, thinking, and behaviour and has no cure yet",health
+The BCG vaccine protects against tuberculosis,en,True,encyclopaedia,The BCG vaccine has been used since 1921 and is part of standard immunisation schedules,health
+The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World,en,True,encyclopaedia,The Great Pyramid was built around 2560 BCE and is the only ancient wonder still largely intact,general
+A marathon is a running race of 42.195 kilometres,en,True,encyclopaedia,The marathon distance was standardised at the 1908 London Olympics,general
+The United Nations officially has six working languages,en,True,encyclopaedia,"The UN's official languages are Arabic, Chinese, English, French, Russian, and Spanish",general
+India is the birthplace of the game of chess,en,True,encyclopaedia,Chess originated in India as Chaturanga around the 6th century CE,general
+The Fibonacci sequence is a series where each number is the sum of the two preceding ones,en,True,encyclopaedia,The Fibonacci sequence 1 1 2 3 5 8 13 appears in many natural patterns,general
+Pi is an irrational number that cannot be expressed as a simple fraction,en,True,encyclopaedia,Pi has been calculated to trillions of decimal places without any repeating pattern,general
+The speed of Earth around the Sun is approximately 107000 kilometres per hour,en,True,encyclopaedia,Earth travels about 940 million km in one orbit around the Sun,general
+A leap year has 366 days instead of 365,en,True,encyclopaedia,Leap years occur every four years to keep the calendar aligned with Earth's orbit,general
+The Pythagorean theorem states that in a right triangle a² plus b² equals c²,en,True,encyclopaedia,The theorem relates the lengths of the sides of a right-angled triangle,general
+The tallest building in the world is the Burj Khalifa in Dubai,en,True,encyclopaedia,The Burj Khalifa stands at 828 metres and was completed in 2010,general
+The Strait of Malacca is one of the world's busiest shipping lanes,en,True,encyclopaedia,The Strait of Malacca separates the Malay Peninsula from Sumatra,geography
+"The Rhine River flows through Switzerland, Germany, and the Netherlands",en,True,encyclopaedia,The Rhine is one of Europe's most important waterways for trade,geography
+The Nile flows northward through Egypt into the Mediterranean Sea,en,True,encyclopaedia,The Nile is the primary water source for Egypt and Sudan,geography
+The Ural Mountains form the boundary between Europe and Asia,en,True,encyclopaedia,The Ural Mountains extend about 2500 km from the Arctic Ocean southward,geography
+The Tibetan Plateau is the world's highest and largest plateau,en,True,encyclopaedia,The Tibetan Plateau averages over 4500 metres above sea level,geography
+The Great Rift Valley stretches from the Middle East to Mozambique,en,True,encyclopaedia,The Great Rift Valley is associated with significant volcanic and seismic activity,geography
+Brazil is the largest country in South America by area,en,True,encyclopaedia,Brazil covers about 8.5 million square kilometres,geography
+The Caspian Sea is technically a lake as it is landlocked,en,True,encyclopaedia,The Caspian Sea is the world's largest inland body of water,geography
+Madagascar is the world's fourth largest island,en,True,encyclopaedia,Madagascar is located off the southeastern coast of Africa in the Indian Ocean,geography
+The Danube River flows through ten countries in Europe,en,True,encyclopaedia,The Danube is Europe's second longest river after the Volga,geography
+The Dead Sea is one of the saltiest bodies of water on Earth,en,True,encyclopaedia,The Dead Sea's salinity is about ten times that of ordinary ocean water,geography
+The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates,en,True,encyclopaedia,The Himalayan uplift continues at a rate of about 5 mm per year,geography
+The Indian Ocean is the third largest ocean in the world,en,True,encyclopaedia,The Indian Ocean covers about 70 million square kilometres,geography
+The Sahel is a semi-arid region south of the Sahara Desert,en,True,encyclopaedia,The Sahel stretches across Africa from Senegal to Sudan,geography
+The Amazon basin contains the world's largest tropical rainforest,en,True,encyclopaedia,The Amazon basin drains about 7 million square kilometres of South America,geography
+The Eurasian Steppe is the world's largest grassland,en,True,encyclopaedia,The Eurasian Steppe stretches from Hungary to Manchuria across 8000 km,geography
+The Deccan Plateau covers most of peninsular India,en,True,encyclopaedia,The Deccan Plateau is bordered by the Western and Eastern Ghats mountain ranges,geography
+The Western Ghats are a UNESCO World Heritage Site in India,en,True,encyclopaedia,The Western Ghats are a biodiversity hotspot running parallel to India's western coast,geography
+The Bay of Bengal is the largest bay in the world,en,True,encyclopaedia,"The Bay of Bengal is bordered by India, Bangladesh, Myanmar, and the Andaman Islands",geography
+The Thar Desert is the world's most densely populated desert,en,True,encyclopaedia,The Thar Desert in northwestern India and Pakistan is home to millions of people,geography
+The Rosetta Stone helped scholars decode Egyptian hieroglyphics,en,True,encyclopaedia,The Rosetta Stone discovered in 1799 contains the same text in three scripts,history
+The Library of Alexandria was one of the largest libraries of the ancient world,en,True,encyclopaedia,The Library of Alexandria in Egypt was a major centre of scholarship in antiquity,history
+Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt,en,True,encyclopaedia,Cleopatra ruled Egypt from 51 BCE until her death in 30 BCE,history
+Alexander the Great built one of the largest empires in ancient history,en,True,encyclopaedia,Alexander conquered territories from Greece to northwestern India by 323 BCE,history
+The Gupta Empire is considered a golden age of Indian civilisation,en,True,encyclopaedia,"The Gupta period saw great advances in mathematics, astronomy, science, and the arts",history
+Ashoka the Great was a Maurya emperor who promoted Buddhism,en,True,encyclopaedia,Ashoka's edicts carved on pillars and rocks are among the earliest Indian historical records,history
+The Chola Empire was a powerful South Indian dynasty,en,True,encyclopaedia,The Chola dynasty at its peak in the 10th and 11th centuries dominated South Asia and Southeast Asia,history
+Akbar the Great was the third Mughal emperor known for religious tolerance,en,True,encyclopaedia,Akbar expanded the Mughal Empire and promoted a policy of religious inclusivity,history
+Vasco da Gama was the first European to reach India by sea,en,True,encyclopaedia,Da Gama reached Calicut on India's west coast in 1498 opening the sea route from Europe,history
+The Battle of Plassey in 1757 established British dominance in India,en,True,encyclopaedia,The East India Company's victory at Plassey began British colonial rule in Bengal,history
+The Dandi March of 1930 was a protest against the British salt tax,en,True,encyclopaedia,Gandhi led the 388 km Dandi March to make salt from seawater in defiance of British law,history
+Partition of India in 1947 created two independent nations India and Pakistan,en,True,encyclopaedia,The partition was accompanied by large-scale violence and displacement,history
+The Battle of Panipat in 1526 established the Mughal Empire in India,en,True,encyclopaedia,Babur defeated Ibrahim Lodi at the First Battle of Panipat founding the Mughal Empire,history
+Emperor Ashoka built pillars across India inscribed with Buddhist teachings,en,True,encyclopaedia,Ashoka's pillars are among the finest examples of Mauryan architecture,history
+The East India Company was established in 1600 by English merchants,en,True,encyclopaedia,The EIC was granted a royal charter by Queen Elizabeth I to trade with the East Indies,history
+The Suez Crisis of 1956 was a diplomatic and military confrontation,en,True,encyclopaedia,"Egypt nationalised the Suez Canal leading to military intervention by Britain, France, and Israel",history
+The Non-Aligned Movement was founded at the Bandung Conference in 1955,en,True,encyclopaedia,The Bandung Conference of 29 Asian and African nations laid the groundwork for the NAM,history
+Gandhi's satyagraha philosophy influenced civil rights movements worldwide,en,True,encyclopaedia,Martin Luther King Jr. credited Gandhi's nonviolent approach as an inspiration for the US civil rights movement,history
+The Green Revolution in India increased agricultural productivity in the 1960s,en,True,encyclopaedia,The Green Revolution introduced high-yield crop varieties and modern farming techniques,history
+Operation Flood or the White Revolution made India the world's largest milk producer,en,True,encyclopaedia,Operation Flood was launched in 1970 by the National Dairy Development Board,history
+The human appendix is a vestigial organ,en,True,science,The appendix has no known essential function in modern humans,science
+The cerebrum is the largest part of the human brain,en,True,science,"The cerebrum controls voluntary movement, speech, intelligence, and memory",science
+The spinal cord transmits signals between the brain and the rest of the body,en,True,science,Damage to the spinal cord can result in paralysis,science
+Chromosomes carry genes made of DNA,en,True,science,Humans have 46 chromosomes arranged in 23 pairs in each somatic cell,science
+The placenta nourishes a developing foetus in mammals,en,True,science,The placenta provides oxygen and nutrients from the mother to the foetus,science
+Photons travel at the speed of light,en,True,science,Photons are massless particles that always travel at approximately 299792 km/s in a vacuum,science
+The speed of sound increases with temperature,en,True,science,"In warmer air, molecules move faster allowing sound to propagate more quickly",science
+Radiocarbon dating is used to determine the age of ancient organic materials,en,True,science,Radiocarbon dating measures the decay of carbon-14 in once-living material,science
+The Kelvin scale starts at absolute zero,en,True,science,0 Kelvin equals -273.15°C which is the lowest theoretically possible temperature,science
+Atoms are mostly empty space,en,True,science,The nucleus of an atom is tiny compared to the overall size of the atom,science
+Natural selection drives evolution in populations,en,True,science,Organisms better adapted to their environment survive and reproduce more successfully,science
+Ecosystems can be disrupted by the removal of a keystone species,en,True,science,Keystone species have a disproportionately large effect on their ecosystem,science
+Gravity causes objects to accelerate toward Earth at 9.8 m per second squared,en,True,science,This value is known as the acceleration due to gravity or g,science
+The ozone hole is largest over Antarctica,en,True,science,The ozone hole over Antarctica was first detected in the 1980s,science
+Mars has the tallest volcano in the solar system called Olympus Mons,en,True,science,Olympus Mons stands about 21.9 km high making it nearly three times taller than Everest,science
+Venus is the hottest planet in the solar system despite not being closest to the Sun,en,True,science,Venus's thick CO2 atmosphere causes a runaway greenhouse effect with surface temps of 465°C,science
+Neptune is the farthest planet from the Sun in the solar system,en,True,science,Neptune is about 4.5 billion km from the Sun and takes 165 Earth years to orbit it,science
+The Moon has no atmosphere and experiences extreme temperature swings,en,True,science,Lunar surface temperatures range from -173°C at night to 127°C in sunlight,science
+"Comets are made of ice, dust, and rocky material",en,True,science,"As comets near the Sun, solar heat vaporises their ice creating a glowing coma and tail",science
+The asteroid belt between Mars and Jupiter contains millions of asteroids,en,True,science,"Despite being numerous, the total mass of the asteroid belt is less than the Moon",science
+The first electronic mail was sent in 1971 by Ray Tomlinson,en,True,encyclopaedia,Tomlinson chose the @ symbol to separate the user name from the host computer name,technology
+HTML is the standard markup language for creating web pages,en,True,encyclopaedia,HTML stands for HyperText Markup Language,technology
+Python is one of the most widely used programming languages,en,True,encyclopaedia,"Python is popular in data science, web development, and artificial intelligence",technology
+The first video game Pong was released by Atari in 1972,en,True,encyclopaedia,Pong simulated table tennis and was one of the first commercially successful arcade games,technology
+Bluetooth technology enables short-range wireless communication,en,True,encyclopaedia,Bluetooth was developed in 1994 and is named after Danish King Harald Bluetooth,technology
+Wi-Fi allows devices to connect to the internet wirelessly,en,True,encyclopaedia,Wi-Fi uses radio waves to provide wireless high-speed internet and network connections,technology
+The barcode was invented in the 1940s and became widespread in the 1970s,en,True,encyclopaedia,Barcodes use patterns of parallel lines to encode information readable by scanners,technology
+The microprocessor was invented by Intel in 1971,en,True,encyclopaedia,Intel's 4004 was the first commercially available microprocessor,technology
+3D printing creates three-dimensional objects from digital designs,en,True,encyclopaedia,"3D printing is also called additive manufacturing and is used in medicine, engineering, and design",technology
+Drones are unmanned aerial vehicles controlled remotely or autonomously,en,True,encyclopaedia,"Drones are used in photography, delivery, military applications, and agriculture",technology
+Nuclear power plants generate electricity through controlled fission,en,True,encyclopaedia,Nuclear power produces about 10 percent of the world's electricity,technology
+Solar panels convert sunlight into electricity using photovoltaic cells,en,True,encyclopaedia,Solar energy is the fastest growing renewable energy source globally,technology
+Robotics combines engineering and computer science to design automated machines,en,True,encyclopaedia,Industrial robots are widely used in manufacturing and assembly lines,technology
+Machine learning is a subset of artificial intelligence,en,True,encyclopaedia,Machine learning allows computers to learn from data without being explicitly programmed,technology
+The first generation of mobile networks called 1G launched in the 1980s,en,True,encyclopaedia,Mobile networks have evolved from 1G to 5G with each generation offering faster speeds,technology
+ISRO's UPI is India's digital payment interface linking bank accounts,en,True,encyclopaedia,UPI or Unified Payments Interface was launched by NPCI in India in 2016,technology
+India is one of the world's largest markets for smartphones,en,True,encyclopaedia,India has over 700 million internet users and hundreds of millions of smartphone users,technology
+Aadhaar is India's biometric digital identity system,en,True,encyclopaedia,Aadhaar has enrolled over 1.3 billion residents making it the world's largest biometric ID system,technology
+ChatGPT was launched by OpenAI in November 2022,en,True,encyclopaedia,ChatGPT reached one million users in five days after its launch,technology
+India's digital payments ecosystem is among the most advanced in the world,en,True,encyclopaedia,India processes billions of UPI transactions monthly making it a global leader in digital payments,technology
+The Gita Press in Gorakhpur is the world's largest publisher of Hindu scriptures,en,True,encyclopaedia,The Gita Press has published over 700 million copies of scriptures since 1923,culture
+The Khajuraho temples in Madhya Pradesh are UNESCO World Heritage Sites,en,True,encyclopaedia,The Khajuraho temples are famous for their nagara-style architecture and erotic sculptures,culture
+The Pongal festival is a harvest celebration in Tamil Nadu,en,True,encyclopaedia,Pongal is a four-day festival celebrated in January to thank the Sun for agricultural abundance,culture
+Onam is the harvest festival of Kerala,en,True,encyclopaedia,Onam celebrates the homecoming of the legendary King Mahabali,culture
+The Konark Sun Temple in Odisha is a UNESCO World Heritage Site,en,True,encyclopaedia,The Konark temple was built in the 13th century and designed in the shape of a chariot,culture
+The Nalanda University was one of the greatest centres of learning in the ancient world,en,True,encyclopaedia,Nalanda in Bihar attracted scholars from across Asia between the 5th and 12th centuries CE,culture
+Sanskrit literature includes some of the world's oldest texts,en,True,encyclopaedia,"The Vedas, composed in Sanskrit, are among the oldest known scriptures in the world",culture
+The game of Snakes and Ladders originated in ancient India,en,True,encyclopaedia,The game was originally called Moksha Patam and taught moral lessons,culture
+Indian classical music is based on ragas and talas,en,True,encyclopaedia,Ragas are melodic frameworks and talas are rhythmic cycles in Indian classical music,culture
+The Sundarbans mangrove forest is shared by India and Bangladesh,en,True,encyclopaedia,The Sundarbans is home to the Bengal tiger and is a UNESCO World Heritage Site,culture
+Carnatic music is the classical music of South India,en,True,encyclopaedia,Carnatic music has a rich tradition of compositions by saints like Tyagaraja and Muthuswami Dikshitar,culture
+The Koodiyattam is the oldest surviving form of Sanskrit theatre,en,True,encyclopaedia,Koodiyattam from Kerala was inscribed on UNESCO's Intangible Cultural Heritage list in 2001,culture
+Indian philosophy includes six major orthodox schools called Darshanas,en,True,encyclopaedia,"The six Darshanas are Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta",culture
+The game of Kabaddi originated in India,en,True,encyclopaedia,Kabaddi is a contact sport that has been played in India for centuries,culture
+The Mughal miniature painting tradition blended Persian and Indian styles,en,True,encyclopaedia,"Mughal miniature paintings flourished during the reigns of Akbar, Jahangir, and Shah Jahan",culture
+The Panchatantra is an ancient Indian collection of animal fables,en,True,encyclopaedia,The Panchatantra was composed around 300 BCE and has been translated into over 50 languages,culture
+The Vedas are the oldest sacred texts of Hinduism,en,True,encyclopaedia,"There are four Vedas: the Rigveda, Samaveda, Yajurveda, and Atharvaveda",culture
+Yoga was recognised by the UN and June 21 is celebrated as International Yoga Day,en,True,encyclopaedia,The UN declared June 21 as International Yoga Day in 2014 at India's proposal,culture
+The Mahabharata is the longest epic poem in the world,en,True,encyclopaedia,The Mahabharata has about 100000 verses making it the world's longest epic,culture
+The game of Polo is believed to have originated in Central Asia and Persia,en,True,encyclopaedia,Polo was popularised in India during the Mughal period and later spread to the West,culture
+"The World Economic Forum is held annually in Davos, Switzerland",en,True,encyclopaedia,The WEF brings together global leaders to discuss major economic and social issues,economics
+India's service sector accounts for more than half of its GDP,en,True,encyclopaedia,"India's IT, finance, and hospitality sectors are major contributors to its economy",economics
+Agriculture employs about 40 percent of India's workforce,en,True,encyclopaedia,"Despite its large workforce share, agriculture contributes about 16 percent of India's GDP",economics
+The SENSEX is the benchmark index of the Bombay Stock Exchange,en,True,encyclopaedia,The SENSEX tracks the performance of 30 financially sound companies listed on the BSE,economics
+The NIFTY 50 is the benchmark index of the National Stock Exchange of India,en,True,encyclopaedia,The NIFTY 50 represents 50 large companies across key sectors of the Indian economy,economics
+India's Make in India initiative was launched in 2014 to boost manufacturing,en,True,encyclopaedia,Make in India aimed to transform India into a global manufacturing hub,economics
+The Union Budget of India is presented annually by the Finance Minister,en,True,encyclopaedia,The Union Budget outlines government revenues and expenditures for the upcoming fiscal year,economics
+Demonetisation in India in 2016 withdrew 500 and 1000 rupee notes,en,True,encyclopaedia,The Indian government demonetised high-denomination currency on November 8 2016,economics
+India is one of the world's top recipients of foreign remittances,en,True,encyclopaedia,The Indian diaspora sends tens of billions of dollars in remittances to India each year,economics
+The Pradhan Mantri Jan Dhan Yojana opened millions of bank accounts for unbanked Indians,en,True,encyclopaedia,PMJDY was launched in 2014 to provide universal access to banking services,economics
+India is the world's largest producer of generic medicines,en,True,encyclopaedia,India supplies about 20 percent of global generic drug exports by volume,economics
+Small and medium enterprises form the backbone of India's economy,en,True,encyclopaedia,SMEs in India contribute about 30 percent of GDP and employ over 110 million people,economics
+The Indian Railways is one of the world's largest rail networks,en,True,encyclopaedia,Indian Railways operates over 13000 trains daily transporting about 23 million passengers,economics
+India is the world's largest producer of tea,en,True,encyclopaedia,India produces about 1.3 billion kg of tea per year mainly from Assam and Darjeeling,economics
+India is the world's second largest producer of wheat,en,True,encyclopaedia,India's wheat production exceeds 100 million tonnes annually,economics
+The start-up ecosystem in India is the third largest in the world,en,True,encyclopaedia,India has over 100 unicorn start-ups valued at over one billion dollars each,economics
+Tata Group is one of India's oldest and largest conglomerates,en,True,encyclopaedia,The Tata Group was founded by Jamsetji Tata in 1868 and operates in over 100 countries,economics
+India's Unified Payments Interface processed billions of transactions in 2023,en,True,encyclopaedia,UPI transactions in India surpassed 100 billion annually by 2023,economics
+Reliance Industries is the largest company in India by market capitalisation,en,True,encyclopaedia,Reliance Industries was founded by Dhirubhai Ambani in 1966,economics
+India has one of the world's fastest growing aviation markets,en,True,encyclopaedia,India's domestic air passenger traffic has grown rapidly making it a top aviation market,economics
+The pancreas produces both insulin and digestive enzymes,en,True,encyclopaedia,The pancreas has both endocrine functions producing hormones and exocrine functions producing enzymes,health
+The kidneys filter about 200 litres of blood per day,en,True,encyclopaedia,The kidneys remove waste products and excess fluid from the blood,health
+Osteoporosis causes bones to become weak and brittle,en,True,encyclopaedia,Osteoporosis is more common in older women and can be prevented with calcium and vitamin D,health
+The human body has approximately 100000 km of blood vessels,en,True,encyclopaedia,If all blood vessels were laid end to end they would circle the Earth about 2.5 times,health
+An electrocardiogram or ECG measures the electrical activity of the heart,en,True,encyclopaedia,ECGs are used to detect heart arrhythmias and other cardiac conditions,health
+The human lung capacity is about 6 litres of air,en,True,encyclopaedia,"The total lung capacity varies by age, sex, and body size",health
+Cholesterol is a fatty substance found in the blood,en,True,encyclopaedia,High LDL cholesterol increases the risk of heart disease and stroke,health
+The World Health Organization was founded on April 7 1948,en,True,encyclopaedia,World Health Day is celebrated on April 7 each year,health
+Anaemia is caused by a lack of healthy red blood cells,en,True,encyclopaedia,Iron deficiency is the most common cause of anaemia globally,health
+The Ayushman Bharat scheme provides health insurance to poor families in India,en,True,encyclopaedia,Ayushman Bharat was launched in 2018 and covers over 500 million beneficiaries,health
+Yoga and meditation are proven to reduce stress and improve mental health,en,True,encyclopaedia,Regular yoga practice lowers cortisol levels and improves psychological wellbeing,health
+Polio has been eradicated in India since 2014,en,True,encyclopaedia,India was certified polio-free by the WHO on March 27 2014,health
+Leprosy is one of the oldest known diseases in human history,en,True,encyclopaedia,India launched the National Leprosy Eradication Programme to eliminate the disease,health
+The National Health Mission in India aims to provide accessible healthcare,en,True,encyclopaedia,The NHM was launched in 2013 to strengthen the public health system in India,health
+Diarrhoeal diseases are a leading cause of child mortality in developing countries,en,True,encyclopaedia,Access to clean water and sanitation is critical to preventing diarrhoeal disease,health
+The average human body temperature is approximately 37 degrees Celsius,en,True,encyclopaedia,Normal body temperature ranges from 36.1°C to 37.2°C,health
+Breast cancer is the most commonly diagnosed cancer among women globally,en,True,encyclopaedia,Early detection through mammography significantly improves survival rates,health
+Mental health disorders affect about one in four people worldwide,en,True,encyclopaedia,Depression and anxiety are among the most common mental health conditions globally,health
+The Pradhan Mantri Swasthya Suraksha Yojana strengthens health infrastructure in India,en,True,encyclopaedia,PMSSY was launched to correct regional imbalances in healthcare access in India,health
+WHO's STOP TB strategy aims to end tuberculosis as a public health problem by 2030,en,True,encyclopaedia,India has one of the highest burdens of tuberculosis globally and runs a national TB programme,health
+The Statue of Unity in India is the world's tallest statue,en,True,encyclopaedia,The Statue of Unity stands 182 metres tall and depicts Sardar Vallabhbhai Patel,general
+India has the largest diaspora population in the world,en,True,encyclopaedia,Over 32 million people of Indian origin live outside India,general
+The Konkan Railway is known for its scenic route along India's western coast,en,True,encyclopaedia,"The Konkan Railway runs through Maharashtra, Goa, and Karnataka",general
+Corbett National Park was India's first national park established in 1936,en,True,encyclopaedia,Jim Corbett National Park in Uttarakhand is named after the hunter-naturalist Jim Corbett,general
+The Snow Leopard is native to the mountain ranges of Central and South Asia,en,True,encyclopaedia,Snow leopards are found in the Himalayas and are listed as vulnerable,general
+India has more than 100 wildlife sanctuaries and 50 national parks,en,True,encyclopaedia,India's protected areas cover a significant portion of the country's biodiversity,general
+Project Tiger was launched in India in 1973 to protect the Bengal tiger,en,True,encyclopaedia,Project Tiger has helped increase India's tiger population from about 1800 to over 3000,general
+The Indian One Horned Rhinoceros is found mainly in Assam,en,True,encyclopaedia,The majority of Indian one-horned rhinos live in Kaziranga National Park in Assam,general
+The Andaman and Nicobar Islands are a union territory of India in the Bay of Bengal,en,True,encyclopaedia,The Andaman and Nicobar Islands consist of over 570 islands,general
+Lakshadweep is India's smallest union territory,en,True,encyclopaedia,Lakshadweep is an archipelago of 36 islands in the Arabian Sea,general
+India's National Highway network spans over 140000 kilometres,en,True,encyclopaedia,India is continuously expanding its national highway network to improve connectivity,general
+The Golden Quadrilateral is India's largest national highway project,en,True,encyclopaedia,"The Golden Quadrilateral connects Delhi, Mumbai, Chennai, and Kolkata",general
+India is the world's largest producer of cotton,en,True,encyclopaedia,India produces about 6 million tonnes of cotton annually,economics
+India is the world's largest producer of jute,en,True,encyclopaedia,West Bengal is the leading jute-producing state in India,economics
+The Bombay Stock Exchange was established in 1875,en,True,encyclopaedia,The BSE is Asia's oldest stock exchange,economics
+The National Stock Exchange of India was founded in 1992,en,True,encyclopaedia,The NSE is India's largest stock exchange by trading volume,economics
+BHIM app is a digital payment application developed in India,en,True,encyclopaedia,BHIM stands for Bharat Interface for Money and is built on the UPI platform,technology
+India's semiconductor industry is rapidly growing,en,True,encyclopaedia,India has announced incentives to attract semiconductor manufacturing investments,technology
+DigiLocker is a digital document storage service provided by the Indian government,en,True,encyclopaedia,DigiLocker allows citizens to store and access official documents digitally,technology
+India launched the Digital India programme in 2015,en,True,encyclopaedia,Digital India aims to transform India into a digitally empowered society,technology
+The IIT system is India's premier network of engineering institutions,en,True,encyclopaedia,The Indian Institutes of Technology were established starting in 1951,general
+IIM Ahmedabad is one of India's top business schools,en,True,encyclopaedia,The Indian Institutes of Management are India's premier management education institutions,general
+India's AIIMS are top government medical institutions,en,True,encyclopaedia,All India Institutes of Medical Sciences provide world-class medical education and healthcare,health
+India launched the Swachh Bharat Mission to promote sanitation,en,True,encyclopaedia,The Clean India Mission launched in 2014 aimed to make India open defecation free,health
+Jal Jeevan Mission aims to provide tap water to all rural households in India,en,True,encyclopaedia,The mission launched in 2019 aims to connect every rural household to safe drinking water,health
+India's National Food Security Act ensures subsidised food grains to two thirds of the population,en,True,encyclopaedia,The NFSA enacted in 2013 guarantees food security to about 813 million people,economics
+Pradhan Mantri Awas Yojana aims to provide affordable housing to all Indians,en,True,encyclopaedia,PMAY was launched in 2015 to address the housing shortage in urban and rural India,economics
+MNREGA guarantees 100 days of wage employment per year to rural households,en,True,encyclopaedia,The Mahatma Gandhi National Rural Employment Guarantee Act was enacted in 2005,economics
+India's Aarogya Setu app was developed during the COVID-19 pandemic,en,True,encyclopaedia,Aarogya Setu was launched in April 2020 for contact tracing and health updates,technology
+India's CoWIN platform managed COVID-19 vaccine registrations,en,True,encyclopaedia,CoWIN was used to register over a billion COVID-19 vaccine doses in India,technology
+Vishwanathan Anand is India's first chess grandmaster,en,True,encyclopaedia,Anand became a grandmaster in 1988 and has won the World Chess Championship five times,sports
+Mary Kom is a world champion boxer from India,en,True,encyclopaedia,Mary Kom from Manipur has won the World Amateur Boxing Championship six times,sports
+Mithali Raj is India's highest run-scorer in women's cricket,en,True,encyclopaedia,Raj scored over 10000 runs in international cricket over a 23-year career,sports
+The Durand Cup is India's oldest football tournament,en,True,encyclopaedia,The Durand Cup was established in 1888 making it one of the oldest football tournaments in the world,sports
+Pro Kabaddi League was launched in India in 2014,en,True,encyclopaedia,The Pro Kabaddi League popularised kabaddi as a professional sport in India,sports
+The Battle of Marathon in 490 BCE inspired the modern marathon race,en,True,encyclopaedia,Legend says a Greek messenger ran from Marathon to Athens to announce victory over Persia,history
+Copernicus proposed that the Sun is at the centre of the solar system,en,True,science,Nicolaus Copernicus published his heliocentric model in 1543,science
+Galileo Galilei improved the telescope and supported the heliocentric model,en,True,science,Galileo was put under house arrest by the Inquisition for supporting heliocentrism,science
+The theory of plate tectonics was developed in the 20th century,en,True,science,Alfred Wegener proposed the concept of continental drift in 1912 which led to plate tectonics theory,science
+Vaccines were first developed by Edward Jenner using cowpox to prevent smallpox,en,True,science,Jenner tested his smallpox vaccine in 1796 laying the foundation for immunology,science
+The Human Genome Project was completed in 2003,en,True,science,The HGP mapped the entire human DNA sequence across all 23 chromosome pairs,science
+Nanotechnology works at the scale of individual atoms and molecules,en,True,science,"Nanotechnology has applications in medicine, electronics, and materials science",technology
+Quantum computing uses quantum bits or qubits to process information,en,True,technology,Quantum computers can solve certain problems exponentially faster than classical computers,technology
+The Amazon rainforest is home to about 10 percent of all species on Earth,en,True,encyclopaedia,The Amazon basin hosts an estimated 3 million species of plants and animals,geography
+The Pacific Ring of Fire is an area of intense seismic and volcanic activity,en,True,encyclopaedia,About 90 percent of the world's earthquakes occur in the Ring of Fire,geography
+The Gulf Stream is a warm ocean current that moderates Europe's climate,en,True,encyclopaedia,The Gulf Stream flows from the Gulf of Mexico northward along the US coast to Europe,geography
+El Niño is a climate pattern caused by warming of the central Pacific Ocean,en,True,encyclopaedia,El Niño events affect weather patterns globally causing droughts and floods in different regions,geography
+Permafrost is ground that remains frozen for more than two years,en,True,encyclopaedia,Thawing permafrost releases methane contributing to climate change,geography
+The Coriolis effect causes winds to curve due to Earth's rotation,en,True,science,The Coriolis effect deflects winds to the right in the Northern Hemisphere and to the left in the Southern,science
+Monsoon winds bring seasonal rainfall to South and Southeast Asia,en,True,encyclopaedia,India receives most of its annual rainfall during the southwest monsoon from June to September,geography
+India's southwest monsoon typically arrives in Kerala by June 1,en,True,encyclopaedia,The onset of the monsoon in Kerala signals the start of the rainy season across India,geography

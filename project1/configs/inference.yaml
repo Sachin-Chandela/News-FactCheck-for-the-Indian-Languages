@@ -1,0 +1,27 @@
+# project1/configs/inference.yaml
+# Runtime settings for inference.py
+
+models:
+  muril_classifier: "../models/muril"
+  faiss_index: "../models/fact_index.faiss"
+  claims_pkl: "../models/claims.pkl"
+  embed_model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  nli_model: "joeddav/xlm-roberta-large-xnli"
+
+data:
+  final_dataset: "../data/final_dataset.csv"
+
+thresholds:
+  exact_match: 1.00         # character-identical → skip all models
+  low_similarity: 0.45      # below this, skip NLI and use classifier only
+  nli_confidence_min: 0.60  # minimum NLI softmax confidence to trust verdict
+  top_k_retrieval: 5        # number of nearest neighbours to retrieve
+
+tokenizer:
+  max_length: 256
+
+labels:
+  0: "true"
+  1: "false"
+  2: "misleading"
+  3: "other"
