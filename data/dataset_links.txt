@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/ersindemirel/pubhealthdataset
+https://www.kaggle.com/datasets/thedevastator/unlock-insight-into-scientific-claims-with-scifa
+
+For the News Evaluation:-google fact check api   
